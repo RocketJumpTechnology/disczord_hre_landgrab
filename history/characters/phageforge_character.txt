@@ -1,0 +1,52 @@
+﻿777601 = {
+	name = "Harold"
+	# dna = phageforge_dna
+	dynasty = 777600
+	sexuality = heterosexual
+	martial = 5
+	prowess = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = swabian
+	trait = education_diplomacy_2
+	trait = ambitious
+	trait = paranoid
+	trait = stubborn
+	trait = shrewd
+	trait = intellect_good_1
+	disallow_random_traits = yes
+	1046.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 777602
+    }
+}
+
+777603 = {
+    name = Harold
+	dynasty = 777600
+	religion = catholic
+	culture = swabian
+	father = 777601
+	trait = twin
+	1064.9.1 = {
+	    birth = yes
+	}
+}
+
+777604 = {
+    name = Harriet
+    female = yes
+	dynasty = 777600
+	religion = catholic
+	culture = swabian
+	father = 777601
+	trait = twin
+	1064.9.1 = {
+	    birth = yes
+	}
+}

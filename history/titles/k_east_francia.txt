@@ -2193,7 +2193,7 @@ c_nordlingen = {
 		liege = "d_swabia"
 	}
 	1066.1.1 = {
-		holder = 1388
+		holder = 777601
 	}
 	1080.10.15 = {
 		holder = 1390
@@ -3432,7 +3432,7 @@ d_swabia = {
 		holder = 20261
 	}
 	1057.1.1 = {
-		holder = 1388
+		holder = 777601
 	}
 	1079.1.1 = {
 		holder = 7054 #Friedrich I von Hohenstaufen
@@ -3523,7 +3523,7 @@ c_ulm = {
 		liege = "d_swabia"
 	}
 	1066.1.1 = {
-		holder = 1388 #Rudolf von Rheinfelden
+		holder = 777601
 	}
 	1079.1.1 = {
 		holder = 7054 #Friedrich I von Hohenstaufen
