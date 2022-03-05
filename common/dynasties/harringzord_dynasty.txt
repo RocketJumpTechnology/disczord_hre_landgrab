@@ -1,0 +1,5 @@
+﻿777900 = {
+	name = "Harringzord"
+	culture = "franconian"
+	motto = motto_harringzord
+}

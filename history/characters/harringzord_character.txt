@@ -1,0 +1,81 @@
+﻿777902 = {
+	name = "Rachel"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = franconian
+	1038.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 777901
+    }
+}
+
+777901 = {
+	name = "Gregorio"
+	dna = harringzord_dna
+	dynasty = 777900
+	sexuality = heterosexual
+	martial = 5
+	prowess = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	learning = 6
+	religion = catholic
+	culture = franconian
+	trait = education_diplomacy_3
+	trait = generous
+	trait = gregarious
+	trait = paranoid
+	trait = reveler_2
+	trait = administrator
+	trait = poet
+	disallow_random_traits = yes
+	1034.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 777902
+    }
+}
+
+777903 = {
+    name = Gregorio
+	dynasty = 777900
+	religion = catholic
+	culture = franconian
+	father = 777901
+	mother = 777902
+	trait = twin
+	1064.9.1 = {
+	    birth = yes
+	}
+}
+
+777904 = {
+    name = Subscribia
+    female = yes
+	dynasty = 777900
+	religion = catholic
+	culture = franconian
+	father = 777901
+	mother = 777902
+	trait = twin
+	1064.9.1 = {
+	    birth = yes
+	}
+}
+
+777905 = {
+    name = Zordo
+	dynasty = 777900
+	religion = catholic
+	culture = franconian
+	father = 777901
+	mother = 777902
+	1065.9.1 = {
+	    birth = yes
+	}
+}

@@ -176,7 +176,7 @@ d_west_franconia = {
 		holder = 1314
 	}
 	1056.5.10 = {	
-		holder = 1316
+		holder = 777901
 	}
 	1106.7.8 = {
 		holder = 7901
@@ -200,7 +200,7 @@ d_west_franconia = {
 		holder = 7557
 	}
 	1165.1.1 = {
-		holder = 7537
+		holder = 777901
 	}
 	1183.8.23 = {
 		holder = 7557
@@ -539,7 +539,7 @@ c_klingenberg = {
 		holder = 41721
 	}
 	1066.1.1 = {
-		holder = 1316
+		holder = 777901
 	}
 	1085.9.20 = {
 		holder = 7586
@@ -1452,7 +1452,7 @@ d_east_franconia = {
 		holder = 1314
 	}
 	1056.5.10 = {	
-		holder = 1316
+		holder = 777901
 	}
 	1106.7.8 = {
 		holder = 7901
@@ -1569,7 +1569,7 @@ c_wurzburg = {
 		liege = "d_east_franconia"
 	}
 	1066.1.1 = {
-		holder = 1316
+		holder = 777901
 	}
 	1106.7.8 = {
 		holder = 7901
@@ -2112,7 +2112,7 @@ c_bamberg = {
 		liege = "d_east_franconia"
 	}
 	1066.1.1 = {
-		holder = 1316
+		holder = 777901
 	}
 	1106.7.8 = {
 		holder = 7901
@@ -2291,7 +2291,7 @@ c_wiltberg = {
 		liege = "d_east_franconia"
 	}
 	1066.1.1 = {
-		holder = 1316
+		holder = 777901
 	}
 	1106.7.8 = {
 		holder = 7901
@@ -2489,7 +2489,7 @@ c_fulda = {
 		holder = 1416
 	}
 	1066.1.1 = {
-		holder = 1316
+		holder = 777901
 	}
 	1072.3.28 = {
 		holder = 1418
@@ -2624,7 +2624,7 @@ c_marburg = {
 		liege = "d_east_franconia"
 	}
 	1066.1.1 = {
-		holder = 1316
+		holder = 777901
 	}
 	1106.7.8 = {
 		holder = 7901 #Heinrich V Salier
