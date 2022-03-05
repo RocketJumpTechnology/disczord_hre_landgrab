@@ -14,7 +14,7 @@
 
 777101 = {
 	name = "Oren"
-	# dna = orenog_dna
+	dna = orenog_dna
 	dynasty = 777100
 	sexuality = heterosexual
 	martial = 9
@@ -49,6 +49,7 @@
 	culture = franconian
 	father = 777101
 	mother = 777102
+	trait = fecund
 	1064.9.1 = {
 	    birth = yes
 	}
@@ -61,6 +62,7 @@
 	culture = franconian
 	father = 777101
 	mother = 777102
+	trait = fecund
 	1063.11.1 = {
 	    birth = yes
 	}
@@ -74,6 +76,7 @@
 	culture = franconian
 	father = 777101
 	mother = 777102
+	trait = fecund
 	1063.2.2 = {
 	    birth = yes
 	}

@@ -635,6 +635,12 @@ beards_scripted_characters = {
         }   
         weight = {
             base = 0
+            modifier = {
+				add = 200
+				exists = this
+				exists = character:777101 # orenog
+				this = character:777101
+			}
         }
     }
 
