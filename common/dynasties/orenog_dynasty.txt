@@ -1,0 +1,4 @@
+﻿777100 = {
+	name = "The Iguana of Israel"
+	culture = "franconian"
+}

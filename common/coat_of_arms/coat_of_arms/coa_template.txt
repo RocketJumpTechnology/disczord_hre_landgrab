@@ -1,0 +1,8 @@
+ho_christian = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	colored_emblem = {
+		texture = "ce_cross_07.dds"
+		color1 = "yellow"
+	}
+}

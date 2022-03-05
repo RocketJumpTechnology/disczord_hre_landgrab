@@ -1,0 +1,5 @@
+﻿777200 = {
+    prefix = "dynnp_de"
+	name = "Majorbietsch"
+	culture = "frisian"
+}

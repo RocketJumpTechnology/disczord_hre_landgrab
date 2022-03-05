@@ -1,0 +1,5 @@
+﻿dynasty_template = {
+	name = "dynn_Andersson"
+	culture = "swedish"
+	motto = dynn_Andersson_motto
+}

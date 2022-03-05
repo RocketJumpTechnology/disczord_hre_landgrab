@@ -1,0 +1,80 @@
+﻿777102 = {
+    name = Romilda
+	female = yes
+    religion = catholic
+    culture = franconian
+	sexuality = heterosexual
+	1047.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 777101
+	}
+}
+
+777101 = {
+	name = "Oren"
+	# dna = orenog_dna
+	dynasty = 777100
+	sexuality = heterosexual
+	martial = 9
+	prowess = 5
+	diplomacy = 16
+	intrigue = 6
+	stewardship = 15
+	learning = 8
+	religion = catholic
+	culture = franconian
+	trait = education_martial_1
+	trait = lustful
+	trait = calm
+	trait = brave
+	trait = lazy
+	trait = gallant
+	trait = athletic
+	trait = fecund
+	disallow_random_traits = yes
+	1047.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 777102
+	}
+}
+
+777103 = {
+    name = Otto
+	dynasty = 777100
+	religion = catholic
+	culture = franconian
+	father = 777101
+	mother = 777102
+	1064.9.1 = {
+	    birth = yes
+	}
+}
+
+777104 = {
+    name = Hardwin
+	dynasty = 777100
+	religion = catholic
+	culture = franconian
+	father = 777101
+	mother = 777102
+	1063.11.1 = {
+	    birth = yes
+	}
+}
+
+777105 = {
+    name = Oda
+	female = yes
+	dynasty = 777100
+	religion = catholic
+	culture = franconian
+	father = 777101
+	mother = 777102
+	1063.2.2 = {
+	    birth = yes
+	}
+}

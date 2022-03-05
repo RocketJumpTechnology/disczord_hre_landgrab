@@ -1,0 +1,69 @@
+﻿777202 = {
+	name = "Wibeke"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = frisian
+	1045.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 777201
+    }
+}
+
+777201 = {
+	name = "Rintje"
+	# dna = majorbyte_dna
+	dynasty = 777200
+	sexuality = bisexual
+	martial = 5
+	prowess = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = frisian
+	trait = education_stewardship_4
+	trait = honest
+	trait = patient
+	trait = stubborn
+	trait = administrator
+	trait = journaller
+	trait = hashishiyah
+	disallow_random_traits = yes
+	1045.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 777202
+    }
+}
+
+777203 = {
+    name = Heilke
+	dynasty = 777200
+	religion = catholic
+	culture = frisian
+	father = 777201
+	mother = 777202
+	trait = twin
+	1064.9.1 = {
+	    birth = yes
+	}
+}
+
+777204 = {
+    name = Bontje
+    female = yes
+	dynasty = 777200
+	religion = catholic
+	culture = frisian
+	father = 777201
+	mother = 777202
+	trait = twin
+	1064.9.1 = {
+	    birth = yes
+	}
+}
