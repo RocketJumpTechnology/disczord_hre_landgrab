@@ -1,0 +1,27 @@
+﻿777801 = {
+	name = "Carulina"
+    female = yes
+	dna = cobra_dna
+	dynasty = 777800
+	sexuality = heterosexual
+	martial = 4
+	prowess = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = sicilian
+	trait = education_learning_4
+	trait = temperate
+	trait = forgiving
+	trait = gregarious
+	trait = poet
+	trait = journaller
+	trait = shrewd
+	trait = mystic_1
+	disallow_random_traits = yes
+	1050.1.1 = {
+		birth = yes
+	}
+}

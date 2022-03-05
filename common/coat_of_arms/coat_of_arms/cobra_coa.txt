@@ -1,0 +1,11 @@
+777800={
+    pattern="pattern_solid.dds"
+    color1=red
+    color2=white
+    color3=red
+    colored_emblem={
+            color1=yellow_light
+            color2=blue
+            texture="ce_maunch.dds"
+    }
+}

@@ -1,0 +1,6 @@
+﻿777800 = {
+    prefix = "dynnp_di"
+	name = "Capua"
+	culture = "sicilian"
+	motto = motto_cobra
+}
