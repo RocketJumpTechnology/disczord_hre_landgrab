@@ -14,7 +14,7 @@
 
 777201 = {
 	name = "Rintje"
-	# dna = majorbyte_dna
+	dna = majorbyte_dna
 	dynasty = 777200
 	sexuality = bisexual
 	martial = 5
