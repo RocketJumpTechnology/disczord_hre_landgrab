@@ -1,0 +1,6 @@
+﻿7771100 = {
+    prefix = "dynnp_it"
+	name = "Grutte Ear"
+	culture = "frisian"
+	motto = motto_majorbyte_dokkum
+}

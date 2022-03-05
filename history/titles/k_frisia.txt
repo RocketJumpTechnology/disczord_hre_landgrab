@@ -892,7 +892,7 @@ c_dokkum = {
 	}
 	1066.1.1 = {
 		liege = e_hre
-		holder = dutch0001
+		holder = 7771101
 	}
 	1068.1.1 = {
 		holder = 106515 #Ekbert II von Braunschweig
