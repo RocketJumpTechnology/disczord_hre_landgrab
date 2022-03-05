@@ -1,0 +1,5 @@
+﻿777300 = {
+	name = "Bonenobo"
+	culture = "french"
+	motto = motto_gengar
+}

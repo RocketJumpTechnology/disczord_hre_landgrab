@@ -1,0 +1,17 @@
+777300={
+    custom=yes
+    pattern="pattern__solid_designer.dds"
+    color1=black
+    color2=brown
+    color3=black
+    colored_emblem={
+            color1=brown
+            color2=red
+            color3=white
+            texture="ce_odins_face.dds"
+            instance={
+                    position={ 0.500000 0.430000 }
+            }
+
+    }
+}

@@ -223,6 +223,12 @@ beards_scripted_characters = {
                 exists = character:7627 #earl_alfred
                 this = character:7627 #earl_alfred
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:777301 #gengar
+                this = character:777301
+            }
         }
     }
 

@@ -978,6 +978,12 @@ hairstyles_scripted_characters = {
                 exists = character:1183 #empress_bertha
                 this = character:1183 #empress_bertha
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:777301 #gengar
+                this = character:777301
+            }
         }
     }
 
