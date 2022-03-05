@@ -84,7 +84,7 @@ d_holland = {
 		holder = 106522 #Floris I
 	}
 	1061.6.28 = {
-		holder = 106520 #Dirk V
+		holder = 777401 # Kaosubaloo
 	}
 	1091.6.17 = {
 		holder = 106555 #Floris II
@@ -160,7 +160,7 @@ c_holland = {
 		holder = 106522 #Floris I
 	}
 	1061.6.28 = {
-		holder = 106520 #Dirk V
+		holder = 777401
 	}
 	1091.6.17 = {
 		holder = 106555 #Floris II
@@ -237,7 +237,7 @@ c_westfriesland = {
 		holder = 106522 #Floris I
 	}
 	1061.6.28 = {
-		holder = 106520 #Dirk V
+		holder = 777401
 	}
 	1091.6.17 = {
 		holder = 106555 #Floris II

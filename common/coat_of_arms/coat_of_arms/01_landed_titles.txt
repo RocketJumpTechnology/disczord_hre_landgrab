@@ -10260,15 +10260,26 @@ d_upper_burgundy = {
 }
 
 d_holland = {
-	pattern = "pattern_solid.dds"
-	color1 = "yellow"
-	color2 = "red"
-	colored_emblem = {
-		texture = "ce_lion_rampant_crown.dds" # Variant to distinguish county and duchy
-		color1 = "red"
-		color2 = "blue"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
-	}
+    custom=yes
+    pattern="pattern_vertical_stripes_02.dds"
+    color1=black
+    color2=rgb { 219 56 189 }
+    color3=red
+    colored_emblem={
+            color1=purple
+            texture="ce_wheel.dds"
+            instance={
+                    position={ 0.700000 0.500000 }
+                    scale={ -0.400000 0.400000 }
+            }
+
+            instance={
+                    position={ 0.300000 0.500000 }
+                    scale={ 0.400000 0.400000 }
+                    depth=1.010000
+            }
+
+    }
 }
 
 d_julich = {
