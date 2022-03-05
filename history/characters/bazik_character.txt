@@ -1,0 +1,51 @@
+﻿7771002 = {
+	name = "Brigitte"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = swabian
+	1045.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7771001
+    }
+}
+
+7771001 = {
+	name = "Bazik"
+	# dna = majorbyte_dna
+	dynasty = 7771000
+	sexuality = heterosexual
+	martial = 7
+	prowess = 7
+	diplomacy = 12
+	intrigue = 15
+	stewardship = 12
+	learning = 12
+	religion = catholic
+	culture = swabian
+	trait = education_intrigue_4
+	trait = cynical
+	trait = vengeful
+	trait = fickle
+	disallow_random_traits = yes
+	1045.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7771002
+    }
+}
+
+7771003 = {
+    name = Bazik
+	dynasty = 7771000
+	religion = catholic
+	culture = swabian
+	father = 7771001
+	mother = 7771002
+	1064.9.1 = {
+	    birth = yes
+	}
+}

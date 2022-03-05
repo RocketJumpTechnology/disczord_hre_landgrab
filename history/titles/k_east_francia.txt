@@ -3833,7 +3833,7 @@ c_zollern = {
 		liege = "d_swabia"
 	}
 	1061.1.1 = {
-		holder = 212395 # Friedrich I Hohenzollern
+		holder = 7771001
 	}
 	1125.1.1 = {
 		holder = 212394 # Friedrich II Hohenzollern

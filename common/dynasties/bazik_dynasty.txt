@@ -1,0 +1,5 @@
+﻿7771000 = {
+    prefix = "dynnp_von"
+	name = "Baziksburg"
+	culture = "swabian"
+}
