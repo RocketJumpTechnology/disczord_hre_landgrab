@@ -2,4 +2,5 @@
     prefix = "dynnp_de"
 	name = "Majorbietsch"
 	culture = "frisian"
+	motto = motto_majorbyte
 }

@@ -1,5 +1,5 @@
 ﻿777102 = {
-    name = Romilda
+    name = Orna
 	female = yes
     religion = catholic
     culture = franconian
@@ -43,7 +43,7 @@
 }
 
 777103 = {
-    name = Otto
+    name = Orenong
 	dynasty = 777100
 	religion = catholic
 	culture = franconian
@@ -55,7 +55,7 @@
 }
 
 777104 = {
-    name = Hardwin
+    name = Orenog
 	dynasty = 777100
 	religion = catholic
 	culture = franconian
@@ -67,7 +67,7 @@
 }
 
 777105 = {
-    name = Oda
+    name = Oranit
 	female = yes
 	dynasty = 777100
 	religion = catholic
