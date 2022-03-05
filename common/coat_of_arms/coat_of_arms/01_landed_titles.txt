@@ -3869,36 +3869,44 @@ d_birjand = {
 	}
 }
 d_bohemia = {
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "red"
-	colored_emblem = {
-		texture = "ce_fire.dds"
-		color1 = "yellow"
-		color2 = "yellow"
-		instance = { position = { 0.3 0.13 } scale = { 0.25 0.25 } }
-		instance = { position = { 0.2 0.13 } scale = { 0.25 0.25 } rotation = -45 }
-		instance = { position = { 0.21 0.3 } scale = { -0.25 0.25 } rotation = -45 }
-		instance = { position = { 0.25 0.5 } scale = { -0.25 0.25 } rotation = -45 }
-		instance = { position = { 0.7 0.13 } scale = { -0.25 0.25 } }
-		instance = { position = { 0.8 0.13 } scale = { -0.25 0.25 } rotation = 45 }
-		instance = { position = { 0.79 0.3 } scale = { -0.25 0.25 } rotation = 45 }
-		instance = { position = { 0.75 0.5 } scale = { -0.25 0.25 } rotation = 45 }
-	}
-	colored_emblem = {
-		texture = "ce_eagle.dds"
-		color1 = "orange"
-		color2 = "orange"
-		instance = { position = { 0.49 0.500 }	}
-		instance = { position = { 0.50 0.480 }	}
-		instance = { position = { 0.51 0.500 }	}
-	}
-	colored_emblem = {
-		texture = "ce_eagle.dds"
-		color1 = "black"
-		color2 = "yellow"
-		instance = { position = { 0.5 0.515 }	}
-	}
+    custom=yes
+    pattern="pattern_cross_02.dds"
+    color1=blue_light
+    color2=grey
+    color3=white
+    colored_emblem={
+            color1=white
+            texture="ce_star_08.dds"
+            instance={
+                    position={ 0.500000 0.090000 }
+                    scale={ 0.420000 0.420000 }
+            }
+
+            instance={
+                    position={ 0.500000 0.900000 }
+                    scale={ 0.390000 0.390000 }
+                    depth=1.010000
+            }
+
+            instance={
+                    position={ 0.100000 0.500000 }
+                    scale={ 0.460000 0.460000 }
+                    depth=2.010000
+            }
+
+            instance={
+                    position={ 0.850000 0.500000 }
+                    scale={ 0.450000 0.450000 }
+                    depth=3.010000
+            }
+
+            instance={
+                    scale={ 0.490000 0.490000 }
+                    depth=4.010000
+            }
+
+    }
+
 }
 d_bosnia = {
 	pattern = "pattern_solid.dds"
@@ -5575,15 +5583,43 @@ k_bavaria = {
 }
 
 k_bohemia = {
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	colored_emblem = {
-		texture = "ce_lion_rampant_crown_forked.dds"
-		color1 = "white"
-		color2 = "yellow"
-		instance = { position = { 0.5 0.48 } scale = { 1.0 1.0 }  }
-	}
+	    custom=yes
+        pattern="pattern_cross_02.dds"
+        color1=blue_light
+        color2=grey
+        color3=white
+        colored_emblem={
+                color1=white
+                texture="ce_star_08.dds"
+                instance={
+                        position={ 0.500000 0.090000 }
+                        scale={ 0.420000 0.420000 }
+                }
+
+                instance={
+                        position={ 0.500000 0.900000 }
+                        scale={ 0.390000 0.390000 }
+                        depth=1.010000
+                }
+
+                instance={
+                        position={ 0.100000 0.500000 }
+                        scale={ 0.460000 0.460000 }
+                        depth=2.010000
+                }
+
+                instance={
+                        position={ 0.850000 0.500000 }
+                        scale={ 0.450000 0.450000 }
+                        depth=3.010000
+                }
+
+                instance={
+                        scale={ 0.490000 0.490000 }
+                        depth=4.010000
+                }
+
+        }
 }
 
 k_east_francia = {

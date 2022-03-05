@@ -1,0 +1,5 @@
+﻿777700 = {
+    prefix = "dynnp_z"
+	name = "Viking"
+	culture = "czech"
+}
