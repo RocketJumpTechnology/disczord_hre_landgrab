@@ -1,4 +1,4 @@
-﻿aussievikingr_dna={
+﻿cobra_dna={
 	portrait_info = {
         type=girl
         genes={

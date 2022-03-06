@@ -1,0 +1,50 @@
+7771500={
+    pattern="pattern_solid.dds"
+    color1=white
+    color2=white
+    color3=red
+    colored_emblem={
+            color1=black
+            color2=grey
+            texture="ce_vairy.dds"
+            instance={
+                    position={ 0.560000 0.680000 }
+                    scale={ 0.380000 0.050000 }
+                    depth=1.010000
+            }
+
+    }
+
+    colored_emblem={
+            color1=red
+            texture="ce_rune_futhark_bjarkan.dds"
+            instance={
+                    position={ 0.550000 0.430000 }
+                    scale={ 0.470000 0.470000 }
+            }
+
+    }
+
+    colored_emblem={
+            color1=rgb { 138 106 65 }
+            texture="ce_square_kaaba.dds"
+            instance={
+                    position={ 0.560000 0.440000 }
+                    scale={ 0.700000 1.000000 }
+                    depth=3.010000
+            }
+
+    }
+
+    colored_emblem={
+            color1=rgb { 143 105 65 }
+            texture="ce_tamgha_turkic_09.dds"
+            instance={
+                    position={ 0.320000 0.430000 }
+                    scale={ 0.620000 0.620000 }
+                    depth=2.010000
+            }
+
+    }
+
+}
