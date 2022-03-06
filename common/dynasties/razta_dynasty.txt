@@ -1,0 +1,6 @@
+﻿7771400 = {
+    prefix = "dynnp_af"
+	name = "Raztafari"
+	culture = "yoruba"
+	motto = motto_razta
+}
