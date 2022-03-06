@@ -1,0 +1,5 @@
+﻿7771300 = {
+	name = "Metal"
+	culture = "saxon"
+	motto = motto_metal
+}

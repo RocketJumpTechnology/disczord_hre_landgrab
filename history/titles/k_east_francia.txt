@@ -4081,7 +4081,7 @@ d_angria = {
 		liege = e_hre
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1072.3.28 = {
 		holder = 1418
@@ -4158,7 +4158,7 @@ c_minden = {
 		holder = 106510 #Ekbert I von Braunschweig
 	}
 	1066.1.1 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1068.1.1 = {
 		holder = 106515 #Ekbert II von Braunschweig
@@ -4234,7 +4234,7 @@ c_lippe = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1072.3.28 = {
 		holder = 1418
@@ -4436,7 +4436,7 @@ c_wolpe = {
 	}
 	1066.1.1 = {
 		liege = d_angria
-		holder = 1416
+		holder = 7771301
 	}
 	1067.1.1 = {
 		holder = 1616
@@ -4513,7 +4513,7 @@ c_hannover = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1066.1.1 = {
 		holder = 144202
@@ -6368,7 +6368,7 @@ d_ostfalen = {
 		liege = e_hre
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1072.3.28 = {
 		holder = 1418
@@ -6440,7 +6440,7 @@ c_luneburg = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1066.1.1 = {
 		holder = 41731
@@ -6685,7 +6685,7 @@ c_dannenberg = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1066.1.1 = {
 		holder = 41731
@@ -6763,7 +6763,7 @@ c_stendal = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1066.1.1 = {
 		holder = 20247
@@ -6970,7 +6970,7 @@ c_gottingen = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1066.1.1 = {
 		holder = 30209
@@ -7070,7 +7070,7 @@ c_gleichenstein = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1066.1.1 = {
 		holder = 30209
@@ -7522,7 +7522,7 @@ d_westfalen = {
 		liege = e_hre
 	}
 	1059.6.29 = {
-		holder = 1416
+		holder = 7771301
 	}
 	1072.3.28 = {
 		holder = 1418

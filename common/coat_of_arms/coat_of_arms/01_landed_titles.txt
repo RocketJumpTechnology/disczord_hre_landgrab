@@ -24235,19 +24235,56 @@ k_hungary = {
 	}
 }
 
-# New CE and complete change to traditionnal attributed arms (rather than Welf lion)
 d_angria = {
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "red"
-	colored_emblem = {
-		texture = "ce_waterlily_angria.dds"
-		color1 = "red"
-		color2 = "red"
-		instance = { position = { 0.32 0.3 } scale = { 0.50 0.50 }  }
-		instance = { position = { 0.68 0.3 } scale = { 0.50 0.50 }  }
-		instance = { position = { 0.5 0.68 } scale = { 0.50 0.50 }  }
-	}
+	pattern="pattern__solid_designer.dds"
+    color1=black
+    color2=white
+    color3=blue
+    colored_emblem={
+            color1=rgb { 165 19 0 }
+            color2=rgb { 192 33 6 }
+            texture="ce_african_frame_04.dds"
+            instance={
+                    position={ 0.620000 0.620000 }
+                    scale={ 0.580000 0.580000 }
+                    depth=2.010000
+            }
+
+    }
+
+    colored_emblem={
+            color1=rgb { 171 24 4 }
+            color2=rgb { 171 28 5 }
+            texture="ce_african_frame_04.dds"
+            instance={
+                    position={ 0.650000 0.650000 }
+                    scale={ 0.450000 0.450000 }
+                    depth=1.010000
+            }
+
+    }
+
+    colored_emblem={
+            color1=rgb { 154 20 2 }
+            texture="ce_circle.dds"
+            instance={
+                    position={ 0.660000 0.650000 }
+                    scale={ 0.310000 0.310000 }
+            }
+
+    }
+
+    colored_emblem={
+            color1=rgb { 150 32 16 }
+            color2=red
+            texture="ce_frame_circle_borre_single.dds"
+            instance={
+                    position={ 0.580000 0.570000 }
+                    scale={ 0.700000 0.700000 }
+                    depth=3.010000
+            }
+
+    }
 }
 
 # New CE for the cross gringoly

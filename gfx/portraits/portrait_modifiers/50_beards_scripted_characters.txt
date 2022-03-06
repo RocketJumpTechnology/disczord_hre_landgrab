@@ -427,6 +427,12 @@ beards_scripted_characters = {
                 exists = character:163112 #halfdan_whiteshirt
                 this = character:163112 #halfdan_whiteshirt
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771301
+                this = character:7771301
+            }
         }
         weight = {
             base = 0

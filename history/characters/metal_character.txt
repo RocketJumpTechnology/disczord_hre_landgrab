@@ -1,0 +1,104 @@
+﻿7771302 = {
+	name = "Holly"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = saxon
+	1032.1.1 = {
+		birth = yes
+	}
+	1052.1.2 = {
+	    add_spouse = 7771301
+    }
+}
+
+7771301 = {
+	name = "Ste"
+	dna = metal_dna
+	dynasty = 7771300
+	sexuality = heterosexual
+	martial = 4
+	prowess = 5
+	diplomacy = 5
+	intrigue = 13
+	stewardship = 5
+	learning = 4
+	religion = catholic
+	culture = saxon
+	trait = education_diplomacy_3
+	trait = generous
+	trait = just
+	trait = vengeful
+	trait = august
+	trait = overseer
+	disallow_random_traits = yes
+	1032.1.1 = {
+		birth = yes
+	}
+	1052.1.2 = {
+	    add_spouse = 7771302
+    }
+}
+
+7771303 = {
+    name = Peter
+	dynasty = 7771300
+	religion = catholic
+	culture = saxon
+	father = 7771301
+	mother = 7771302
+	1064.1.1 = {
+	    birth = yes
+	}
+}
+
+7771304 = {
+    name = Anna
+    female = yes
+	dynasty = 7771300
+	religion = catholic
+	culture = saxon
+	father = 7771301
+	mother = 7771302
+	1063.1.1 = {
+	    birth = yes
+	}
+}
+
+7771305 = {
+    name = Eggerd
+	dynasty = 7771300
+	religion = catholic
+	culture = saxon
+	father = 7771301
+	mother = 7771302
+	1062.1.1 = {
+	    birth = yes
+	}
+}
+
+7771306 = {
+    name = Hildegard
+    female = yes
+	dynasty = 7771300
+	religion = catholic
+	culture = saxon
+	father = 7771301
+	mother = 7771302
+	1061.9.1 = {
+	    birth = yes
+	}
+}
+
+7771307 = {
+    name = Christina
+    female = yes
+	dynasty = 7771300
+	religion = catholic
+	culture = saxon
+	father = 7771301
+	mother = 7771302
+	1060.9.1 = {
+	    birth = yes
+	}
+}
