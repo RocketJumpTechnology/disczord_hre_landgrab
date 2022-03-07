@@ -10395,19 +10395,31 @@ d_savoie = {
 }
 
 d_luxembourg = {
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "blue"
-	colored_emblem = {
-		texture = "ce_horizontal_stripes_03.dds"
-		color1 = "white"
-		color2 = "blue"
-	}
-	colored_emblem = {
-		texture = "ce_lion_rampant_crown_forked.dds"
-		color1 = "red"
-		color2 = "yellow"
-	}
+    custom=yes
+    pattern="pattern_solid.dds"
+    color1=blue_light
+    color2=white
+    color3=black
+    colored_emblem={
+            color1=white
+            texture="ce_rune_laguz.dds"
+            instance={
+                    position={ 0.530000 0.440000 }
+                    scale={ 0.690000 0.890000 }
+                    depth=1.010000
+            }
+
+    }
+
+    colored_emblem={
+            color1=white
+            texture="ce_square_kaaba.dds"
+            instance={
+                    position={ 0.470000 0.420000 }
+                    scale={ 0.520000 0.070000 }
+            }
+
+    }
 }
 
 d_gelre = {

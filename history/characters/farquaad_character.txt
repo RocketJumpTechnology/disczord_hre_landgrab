@@ -1,0 +1,29 @@
+﻿7772101 = {
+	name = "Maximus"
+	dna = farquaad_dna
+	dynasty = 7772100
+	sexuality = heterosexual
+	martial = 4
+	prowess = 3
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 3
+	learning = 5
+	religion = catholic
+	culture = franconian
+	trait = education_intrigue_2
+	trait = lustful
+	trait = greedy
+	trait = lazy
+	trait = wrathful
+	trait = arrogant
+	trait = impatient
+	trait = architect
+	trait = irritable
+	trait = beauty_bad_1
+	trait = spindly
+	disallow_random_traits = yes
+	1034.1.1 = {
+		birth = yes
+	}
+}

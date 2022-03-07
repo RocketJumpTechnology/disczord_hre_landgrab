@@ -10,7 +10,7 @@
 	stewardship = 6
 	learning = 6
 	religion = catholic
-	culture = bavarian
+	culture = cisalpine
 	trait = education_martial_3
 	trait = wrathful
 	trait = diligent
