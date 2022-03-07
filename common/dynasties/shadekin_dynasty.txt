@@ -1,0 +1,5 @@
+﻿7772700 = {
+    prefix = "dynnp_de"
+	name = "Artois"
+	culture = "french"
+}

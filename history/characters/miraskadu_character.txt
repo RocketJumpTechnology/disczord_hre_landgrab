@@ -1,0 +1,25 @@
+﻿7772401 = {
+	name = "Mira"
+	dna = miraskadu_dna
+	dynasty = 7772400
+	sexuality = bisexual
+	martial = 6
+	prowess = 8
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 13
+	learning = 10
+	religion = catholic
+	culture = franconian
+	trait = education_intrigue_3
+	trait = beauty_good_2
+	trait = fecund
+	trait = lustful
+	disallow_random_traits = yes
+	1050.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7772402
+    }
+}

@@ -1,0 +1,6 @@
+﻿7772500 = {
+    prefix = "dynnp_de"
+	name = "Astuzia"
+	culture = "cisalpine"
+	motto = motto_cunningfoxpup
+}

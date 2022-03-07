@@ -1,4 +1,4 @@
-﻿harringzord_dna={
+kruzo_dna={
 	portrait_info = {
         type=male
         genes={

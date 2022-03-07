@@ -171,6 +171,12 @@ hairstyles_scripted_characters = {
                 exists = character:146 #william_the_red
                 this = character:146 #william_the_red
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7772701
+                this = character:7772701
+            }
         }
     }
 
@@ -232,6 +238,12 @@ hairstyles_scripted_characters = {
 				exists = this
                 exists = character:easteregg_petter_vilberg
                 this = character:easteregg_petter_vilberg
+            }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7772401
+                this = character:7772401
             }
         }
     }
@@ -447,6 +459,18 @@ hairstyles_scripted_characters = {
                 exists = character:7771901
                 this = character:7771901
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7772501
+                this = character:7772501
+            }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771901
+                this = character:7771901
+            }
         }
     }
 
@@ -621,6 +645,12 @@ hairstyles_scripted_characters = {
         }   
         weight = {
             base = 0
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7772101
+                this = character:7772101
+            }
         }
     }
 
