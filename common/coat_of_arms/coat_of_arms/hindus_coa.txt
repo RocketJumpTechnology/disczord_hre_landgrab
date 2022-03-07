@@ -1,0 +1,43 @@
+7771700={
+        custom=yes
+        pattern="pattern_checkers_02.dds"
+        color1=blue
+        color2=black
+        color3=black
+        colored_emblem={
+                color1=rgb { 255 233 0 }
+                texture="ce_hand.dds"
+                instance={
+                        position={ 0.750000 0.750000 }
+                        scale={ 0.500000 0.500000 }
+                        depth=2.010000
+                }
+
+                instance={
+                        position={ 0.250000 0.250000 }
+                        scale={ 0.500000 0.500000 }
+                        depth=3.010000
+                }
+
+        }
+
+        colored_emblem={
+                color1=white
+                color2=rgb { 0 102 164 }
+                texture="ce_checkers_diagonal_6x3.dds"
+                instance={
+                        position={ 0.250000 0.750000 }
+                        scale={ 0.500000 0.500000 }
+                        rotation=90
+                }
+
+                instance={
+                        position={ 0.750000 0.250000 }
+                        scale={ 0.500000 0.500000 }
+                        depth=1.010000
+                        rotation=91
+                }
+
+        }
+
+}

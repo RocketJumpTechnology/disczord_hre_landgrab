@@ -49,6 +49,12 @@ hairstyles_scripted_characters = {
                 exists = character:easteregg_henrik_lohmander
                 this = character:easteregg_henrik_lohmander
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771701
+                this = character:7771701
+            }
         }
     }
 

@@ -1,0 +1,5 @@
+﻿7771700 = {
+	name = "Goldhand"
+	culture = "bavarian"
+	motto = motto_hindus
+}
