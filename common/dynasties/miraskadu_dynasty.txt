@@ -1,0 +1,5 @@
+﻿7772400 = {
+    prefix = "dynnp_von"
+	name = "Skadu"
+	culture = "franconian"
+}

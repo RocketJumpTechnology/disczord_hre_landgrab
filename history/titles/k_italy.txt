@@ -1371,7 +1371,7 @@ d_piedmonte = {
 		holder = 1180 # Othon of Savoy, as husband of Adelaide
 	}
 	1060.1.19 = {
-		holder = 1182 # Pierre I of Savoy, together with his mother Adelaide
+		holder = 7772501
 	}
 	1078.8.9 = {
 		holder = 1184 # Amédée II of Savoy, together with his mother Adelaide
@@ -1481,7 +1481,7 @@ c_turin = {
 		holder = 1180 # Othon of Savoy
 	}
 	1060.1.3 = {
-		holder = 1182 # Pierre I of Savoy
+		holder = 7772501
 	}
 	1078.8.9 = {
 		holder = 1184 # Amédée II of Savoy

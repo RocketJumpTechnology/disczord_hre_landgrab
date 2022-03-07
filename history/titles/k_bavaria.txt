@@ -158,7 +158,7 @@ d_bavaria = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1070.1.1 = {
 		holder = 1530
@@ -340,7 +340,7 @@ c_munchen = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 33410
@@ -519,7 +519,7 @@ c_eschenlohe = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600 # Otto II of Bavaria
+		holder = 7772601 # Otto II of Bavaria
 	}
 	1070.1.1 = {
 		holder = 1530
@@ -698,7 +698,7 @@ c_regensburg = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1070.1.1 = {
 		holder = 1530
@@ -1208,7 +1208,7 @@ c_frontenhausen = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 20239
@@ -1387,7 +1387,7 @@ c_falkenstein = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600 # Otto II of Bavaria
+		holder = 7772601 # Otto II of Bavaria
 	}
 	1070.1.1 = {
 		holder = 1530
@@ -1563,7 +1563,7 @@ c_ingolstadt = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1070.1.1 = {
 		holder = 1530
@@ -1857,7 +1857,7 @@ d_nordgau = {
 		holder = 1316
 	}
 	1061.1.1= {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 20258
@@ -2034,7 +2034,7 @@ c_eichstadt = {
 		holder = 1316
 	}
 	1061.1.1= {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 20258
@@ -2211,7 +2211,7 @@ c_leuchtenburg = {
 		holder = 1316
 	}
 	1061.1.1= {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 20258
@@ -2388,7 +2388,7 @@ c_parsberg = {
 		holder = 1316
 	}
 	1061.1.1= {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 20258
@@ -2565,7 +2565,7 @@ c_hohenburg = {
 		holder = 1316
 	}
 	1061.1.1= {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 20258
@@ -3086,7 +3086,7 @@ c_augsburg = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 33511
@@ -3197,7 +3197,7 @@ c_alpsee = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 1612 #Albrecht I
@@ -3322,7 +3322,7 @@ c_kempten = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 33511
@@ -3541,7 +3541,7 @@ c_burgau = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 33511
@@ -5083,7 +5083,7 @@ c_innsbruck = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 7771701
@@ -5214,7 +5214,7 @@ c_brixen = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 1612 #Albrecht I
@@ -5353,7 +5353,7 @@ c_lienz = {
 		holder = 1316
 	}
 	1061.1.1 = {
-		holder = 112600
+		holder = 7772601
 	}
 	1066.1.1 = {
 		holder = 7771701

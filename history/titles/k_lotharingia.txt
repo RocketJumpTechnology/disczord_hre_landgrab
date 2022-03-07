@@ -162,7 +162,7 @@ d_luxembourg = {
 		holder = 106652 #Giselbert I
 	}
 	1059.8.14 = {
-		holder = 106650 #Konrad ##Tweaked from 1066 to be more accurate.
+		holder = 7772101
 	}
 	1086.1.1 = {
 		holder = 500000
@@ -247,7 +247,7 @@ c_luxembourg = {
 		holder = 106652 #Giselbert I
 	}
 	1059.8.14 = {
-		holder = 106650 #Konrad ##Tweaked from 1066 to be more accurate.
+		holder = 7772101 #Konrad ##Tweaked from 1066 to be more accurate.
 	}
 	1086.1.1 = {
 		holder = 500000
