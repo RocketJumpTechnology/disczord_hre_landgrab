@@ -649,6 +649,12 @@ beards_scripted_characters = {
         }   
         weight = {
             base = 0
+            modifier = {
+                add = 200
+                exists = this
+                exists = character:7772501
+                this = character:7772501
+            }
         }
     }
 

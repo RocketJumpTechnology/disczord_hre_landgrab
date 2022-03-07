@@ -650,7 +650,7 @@ d_savoie = {
 		holder = 1180
 	}
 	1060.3.1 = {
-		holder = 1182
+		holder = 7772501
 	}
 	1078.8.9 = {
 		holder = 1184
@@ -728,7 +728,7 @@ c_savoie = {
 		holder = 1180
 	}
 	1060.3.1 = {
-		holder = 1182
+		holder = 7772501
 	}
 	1078.8.9 = {
 		holder = 1184
@@ -804,7 +804,7 @@ c_aosta = {
 		holder = 1180
 	}
 	1060.3.1 = {
-		holder = 1182
+		holder = 7772501
 	}
 	1078.8.9 = {
 		holder = 1184
@@ -880,7 +880,7 @@ c_canavese = {
 		holder = 1180
 	}
 	1060.3.1 = {
-		holder = 1182
+		holder = 7772501
 	}
 	1078.8.9 = {
 		holder = 1184
