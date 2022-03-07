@@ -1,0 +1,59 @@
+778701 = {
+	name = "Hero"
+	sexuality = heterosexual
+	dynasty = 778700
+	martial = 5
+	prowess = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 9
+	learning = 8
+	religion = catholic
+	culture = saxon
+	trait = education_learning_3
+	1038.1.1 = {
+		birth = yes
+	}
+	1052.1.2 = {
+	    add_spouse = 778702
+    }
+}
+
+778702 = {
+	name = "Henrietta"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = irish
+	1042.1.1 = {
+		birth = yes
+	}
+	1052.1.2 = {
+	    add_spouse = 778701
+    }
+}
+
+778703 = {
+    name = Excelsior
+	dynasty = 778700
+	religion = catholic
+	culture = saxon
+	father = 778701
+	mother = 778702
+	1061.1.1 = {
+	    birth = yes
+	}
+}
+
+778704 = {
+    name = Marianne
+	dynasty = 778700
+	female = yes
+	religion = catholic
+	culture = saxon
+	father = 778701
+	mother = 778702
+	1064.1.1 = {
+	    birth = yes
+	}
+}

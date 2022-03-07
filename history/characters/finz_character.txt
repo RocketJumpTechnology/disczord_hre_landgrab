@@ -1,0 +1,37 @@
+778801 = {
+	name = "Finnie"
+	dna = finz_dna
+	sexuality = heterosexual
+	dynasty = 778800
+	martial = 5
+	prowess = 5
+	diplomacy = 10
+	intrigue = 11
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = saxon
+	trait = honest
+	trait = education_intrigue_4
+	trait = cynical
+	1039.1.1 = {
+		birth = yes
+	}
+	1065.1.2 = {
+	    add_spouse = 778802
+    }
+}
+
+778802 = {
+	name = "Kathryn"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = dutch
+	1049.1.1 = {
+		birth = yes
+	}
+	1065.1.2 = {
+	    add_spouse = 778801
+    }
+}

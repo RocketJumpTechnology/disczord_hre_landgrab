@@ -1,0 +1,66 @@
+778601 = {
+	name = "Trasselkalle"
+	sexuality = heterosexual
+	dynasty = 778600
+	martial = 7
+	prowess = 11
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 8
+	learning = 6
+	religion = catholic
+	culture = swedish
+	trait = education_diplomacy_4
+	trait = just
+	trait = calm
+	trait = compassionate
+	trait = administrator
+	trait = journaller
+	disallow_random_traits = yes
+	1037.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 778602
+    }
+}
+
+778602 = {
+	name = "Melina"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = french
+	1041.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 778601
+    }
+}
+
+778603 = {
+	name = "Justinian"
+	dynasty = 778600
+    religion = catholic
+    culture = swedish
+	father = 778601
+	mother = 778602
+	1061.1.1 = {
+		birth = yes
+	}
+
+}
+
+778604 = {
+	name = "Roger"
+	dynasty = 778600
+    religion = catholic
+    culture = swedish
+	father = 778601
+	mother = 778602
+	1065.1.1 = {
+		birth = yes
+	}
+
+}

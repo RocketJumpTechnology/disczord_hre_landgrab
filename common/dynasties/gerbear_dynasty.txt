@@ -1,0 +1,5 @@
+778100 = {
+	name = "Gerbear"
+	culture = "saxon"
+	motto = motto_gerbear
+}

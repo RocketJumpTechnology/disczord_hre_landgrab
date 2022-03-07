@@ -81,6 +81,12 @@ hairstyles_scripted_characters = {
                 exists = character:easteregg_maximilian_olbers
                 this = character:easteregg_maximilian_olbers
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:778101
+                this = character:778101
+            }
         }
     }
 
@@ -264,6 +270,12 @@ hairstyles_scripted_characters = {
 				exists = this
                 exists = character:easteregg_isabella_welch
                 this = character:easteregg_isabella_welch
+            }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:778801
+                this = character:778801
             }
         }
     }

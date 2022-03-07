@@ -1,0 +1,33 @@
+778800={
+	pattern="pattern_solid.dds"
+	color1=grey
+	color2=yellow
+	color3=black
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.720000 0.240000 }
+			scale={ 0.530000 0.530000 }
+		}
+
+		instance={
+			position={ 0.280000 0.240000 }
+			scale={ 0.490000 0.490000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 223 223 223 }
+		texture="ce_religion_yoruba.dds"
+		instance={
+			position={ 0.490000 0.550000 }
+			scale={ 0.600000 0.700000 }
+			depth=2.010000
+		}
+
+	}
+
+}

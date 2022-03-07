@@ -1,0 +1,4 @@
+778300 = {
+	name = "Luminous"
+	culture = "saxon"
+}

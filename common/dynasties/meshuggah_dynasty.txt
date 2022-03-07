@@ -1,0 +1,4 @@
+778600 = {
+	name = "Meshuggah"
+	culture = "swedish"
+}
