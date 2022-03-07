@@ -1,0 +1,25 @@
+﻿7771601 = {
+	name = "Conchobhar"
+	dna = kruzo_dna
+	dynasty = 7771600
+	sexuality = heterosexual
+	martial = 8
+	prowess = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = scottish
+	trait = education_martial_4
+	trait = shy
+	trait = cynical
+	trait = ambitious
+	trait = intellect_good_1
+	trait = athletic
+	trait = blademaster_1
+	disallow_random_traits = yes
+	1050.1.1 = {
+		birth = yes
+	}
+}

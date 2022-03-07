@@ -1,0 +1,37 @@
+﻿778401 = {
+	name = "Lithium"
+	sexuality = heterosexual
+	dynasty = 778400
+	martial = 5
+	prowess = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	learning = 5
+	religion = catholic
+	culture = saxon
+	trait = education_stewardship_2
+	trait = calm
+	trait = gardener
+	trait = shrewd
+	1038.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 778402
+    }
+}
+
+778402 = {
+	name = "Borona"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = old_saxon
+	1038.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 778401
+    }
+}

@@ -1,0 +1,34 @@
+﻿7771402 = {
+	name = "Raztalina"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = yoruba
+	1045.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7771401
+    }
+}
+
+7771401 = {
+	name = "Razta"
+	dna = razta_dna
+	dynasty = 7771400
+	sexuality = heterosexual
+	martial = 13
+	prowess = 9
+	diplomacy = 8
+	intrigue = 9
+	stewardship = 10
+	learning = 9
+	religion = catholic
+	culture = yoruba
+	trait = education_martial_4
+	trait = witch
+	disallow_random_traits = yes
+	1045.1.1 = {
+		birth = yes
+	}
+}

@@ -2408,7 +2408,7 @@ c_kassel = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 1418
+		holder = 778101
 	}
 	1106.1.2 = {
 		holder = 30219
@@ -2888,6 +2888,9 @@ c_zurich = {
 	}
 	1055.11.13 = {
 		holder = 20245
+	}
+	1066.1.1 = {
+	    holder = 7772201
 	}
 	1111.4.11 = {
 		holder = 213146
@@ -3982,7 +3985,7 @@ c_furstenberg = {
 		liege = d_swabia
 	}
 	1066.1.1 = {
-		holder = 20245
+	    holder = 7772201
 	}
 	1079.1.1 = {
 		holder = 7054 #Friedrich I von Hohenstaufen
@@ -4513,10 +4516,7 @@ c_hannover = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 7771301
-	}
-	1066.1.1 = {
-		holder = 144202
+		holder = 778701
 	}
 	1072.3.28 = {
 		holder = 1418
@@ -4603,7 +4603,7 @@ c_hildesheim = {
 		holder = 30248 # Dietrich I von Katlenburg
 	}
 	1056.1.1 = {
-		holder = 30249 # Dietrich II von Katlenburg
+		holder = 778801
 	}
 	1072.3.28 = {
 		holder = 1418
@@ -4671,8 +4671,8 @@ c_oldenburg = {
 	866.1.1 = {
 		holder = 167785
 	}
-	1066.1.1 = {
-		holder = 20223 #Eglimar I
+	1064.1.1 = {
+		holder = 778401
 	}
 	1108.1.1 = {
 		holder = 30068 #Eglimar II
@@ -4807,10 +4807,10 @@ c_halberstadt = {
 		holder = 106512
 	}
 	1038.1.24 = {
-		holder = 106510 #Ekbert I von Braunschweig
+		holder = 778201
 	}
-	1068.1.1 = {
-		holder = 106515 #Ekbert II von Braunschweig
+	1074.1.1 = {
+		holder = 778203
 	}
 	1090.7.3 = {
 		holder = 112603
@@ -4931,10 +4931,10 @@ c_blankenburg = {
 		holder = 106512
 	}
 	1038.1.24 = {
-		holder = 106510 #Ekbert I von Braunschweig
+		holder = 778201
 	}
-	1068.1.1 = {
-		holder = 106515 #Ekbert II von Braunschweig
+	1074.1.1 = {
+		holder = 778203
 	}
 	1090.7.3 = {
 		holder = 112603
@@ -5009,10 +5009,8 @@ c_mansfeld = {
 		holder = 106512
 	}
 	1038.1.24 = {
-		holder = 106510 #Ekbert I von Braunschweig
-	}
-	1066.1.1 = {
-		holder = 20266
+		liege = "d_angria"
+		holder = 7781001
 	}
 	1068.1.1 = {
 		holder = 106515 #Ekbert II von Braunschweig
@@ -5096,8 +5094,7 @@ c_mersenburg = {
 		holder = 106510 #Ekbert I von Braunschweig
 	}
 	1066.1.1 = {
-		#holder = 30335
-		holder = 20265 # Dedo Wettin
+	    holder = 7771401
 	}
 	1068.1.1 = {
 		holder = 106515 #Ekbert II von Braunschweig
@@ -5188,6 +5185,9 @@ d_lausitz = {
 		liege = "e_hre"
 		holder = 20265
 		government = feudal_government
+	}
+	1066.1.1 = {
+	    holder = 7771401
 	}
 	1069.1.1 = {
 		holder = 11020
@@ -5287,6 +5287,9 @@ c_juterbog = {
 	1032.7.30 = {
 		holder = 20265
 		liege = d_lausitz
+	}
+	1066.1.1 = {
+	    holder = 7771401
 	}
 	1069.1.1 = {
 		holder = 11020
@@ -5992,6 +5995,9 @@ c_osterland = {
 		#holder = 7060
 		holder = 20265 # Dedo Wettin
 	}
+	1066.1.1 = {
+	    holder = 7771401
+	}
 	1067.1.1 = {
 		holder = 106510
 	}
@@ -6180,6 +6186,9 @@ c_cottbus = {
 	1062.1.1 = {
 		#holder = 7060
 		holder = 20265
+	}
+	1066.1.1 = {
+	    holder = 7771401
 	}
 	1067.1.1 = {
 		holder = 106510
@@ -6520,10 +6529,7 @@ c_brunswick = {
 		holder = 106512
 	}
 	1038.1.24 = {
-		holder = 106510 #Ekbert I von Braunschweig
-	}
-	1066.1.1 = {
-		holder = 2015
+		holder = 778601
 	}
 	1068.1.1 = {
 		holder = 106515 #Ekbert II von Braunschweig
@@ -6763,10 +6769,7 @@ c_stendal = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 7771301
-	}
-	1066.1.1 = {
-		holder = 20247
+		holder = 778501
 	}
 	1072.3.28 = {
 		holder = 1418
@@ -6970,10 +6973,8 @@ c_gottingen = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 7771301
-	}
-	1066.1.1 = {
-		holder = 30209
+		liege = "d_angria"
+		holder = 778301
 	}
 	1072.3.28 = {
 		holder = 1418
@@ -7070,10 +7071,8 @@ c_gleichenstein = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 7771301
-	}
-	1066.1.1 = {
-		holder = 30209
+		liege = "d_angria"
+		holder = 778301
 	}
 	1072.3.28 = {
 		holder = 1418
@@ -7889,7 +7888,7 @@ c_waldeck = {
 		holder = 1414
 	}
 	1059.6.29 = {
-		holder = 1418
+		holder = 778101
 	}
 	1072.3.28 = {
 		holder = 1418

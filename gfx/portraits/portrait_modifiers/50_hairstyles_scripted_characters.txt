@@ -49,6 +49,12 @@ hairstyles_scripted_characters = {
                 exists = character:easteregg_henrik_lohmander
                 this = character:easteregg_henrik_lohmander
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771701
+                this = character:7771701
+            }
         }
     }
 
@@ -74,6 +80,12 @@ hairstyles_scripted_characters = {
 				exists = this
                 exists = character:easteregg_maximilian_olbers
                 this = character:easteregg_maximilian_olbers
+            }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:778101
+                this = character:778101
             }
         }
     }
@@ -114,6 +126,12 @@ hairstyles_scripted_characters = {
 				exists = this
 				exists = character:144998 #king_lothaire
 				this = character:144998 #king_lothaire
+            }
+            modifier = {
+                add = 200
+				exists = this
+				exists = character:7772201
+				this = character:7772201
             }
         }
     }
@@ -252,6 +270,12 @@ hairstyles_scripted_characters = {
 				exists = this
                 exists = character:easteregg_isabella_welch
                 this = character:easteregg_isabella_welch
+            }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:778801
+                this = character:778801
             }
         }
     }
@@ -417,6 +441,12 @@ hairstyles_scripted_characters = {
                 exists = character:easteregg_zack_holmgren
                 this = character:easteregg_zack_holmgren
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771901
+                this = character:7771901
+            }
         }
     }
 
@@ -456,6 +486,12 @@ hairstyles_scripted_characters = {
 				exists = this
 				exists = character:easteregg_james_beaumont
 				this = character:easteregg_james_beaumont
+            }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771601
+                this = character:7771601
             }
         }
     }
@@ -1316,6 +1352,12 @@ hairstyles_scripted_characters = {
         }   
         weight = {
             base = 0
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771401
+                this = character:7771401
+            }
         }
     }
 
@@ -1398,6 +1440,12 @@ hairstyles_scripted_characters = {
         }   
         weight = {
             base = 0
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771501
+                this = character:7771501
+            }
         }
     }
 

@@ -1,0 +1,58 @@
+﻿7781001 = {
+	name = "Rumble"
+	sexuality = heterosexual
+	dynasty = 7781000
+	martial = 5
+	prowess = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = swabian
+	trait = education_diplomacy_2
+	1035.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7781002
+    }
+}
+7781002 = {
+	name = "Queen"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = swabian
+	1038.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7781001
+    }
+}
+
+7781003 = {
+    name = Buzz
+	dynasty = 7781000
+	religion = catholic
+	culture = swabian
+	father = 7781001
+	mother = 7781002
+	1062.9.1 = {
+	    birth = yes
+	}
+}
+
+7781004 = {
+    name = Honey
+	dynasty = 7781000
+	religion = catholic
+	female = yes
+	culture = swabian
+	father = 7781001
+	mother = 7781002
+	1065.9.1 = {
+	    birth = yes
+	}
+}

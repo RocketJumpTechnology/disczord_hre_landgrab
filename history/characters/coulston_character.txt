@@ -1,0 +1,74 @@
+﻿778202 = {
+	name = "Shirley"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = saxon
+	1023.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 778201
+    }
+}
+
+778201 = {
+	name = "Morka"
+	dynasty = 778200
+	sexuality = heterosexual
+	martial = 6
+	prowess = 8
+	diplomacy = 9
+	intrigue = 5
+	stewardship = 8
+	learning = 10
+	religion = catholic
+	culture = saxon
+	trait = education_martial_3
+	trait = diligent
+	trait = impatient
+	trait = hunter_2
+	trait = gallant
+	disallow_random_traits = yes
+	1019.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 778202
+    }
+}
+
+778203 = {
+    name = Liam
+	dynasty = 778200
+	religion = catholic
+	culture = saxon
+	father = 778201
+	mother = 778202
+	martial = 6
+	prowess = 5
+	diplomacy = 10
+	intrigue = 8
+	stewardship = 8
+	learning = 10
+	trait = education_martial_2
+	trait = diligent
+	trait = impatient
+	trait = trusting
+	1043.9.1 = {
+	    birth = yes
+	}
+}
+
+778204 = {
+    name = Morkette
+	dynasty = 778200
+	female = yes
+	religion = catholic
+	culture = saxon
+	father = 778201
+	mother = 778202
+	1048.9.1 = {
+	    birth = yes
+	}
+}

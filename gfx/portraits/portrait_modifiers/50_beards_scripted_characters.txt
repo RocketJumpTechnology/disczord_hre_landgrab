@@ -343,6 +343,12 @@ beards_scripted_characters = {
         }   
         weight = {
             base = 0
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771401
+                this = character:7771401
+            }
         }
     }
 
@@ -380,6 +386,12 @@ beards_scripted_characters = {
 				exists = this
                 exists = character:easteregg_alexander_oltner
                 this = character:easteregg_alexander_oltner
+            }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771601
+                this = character:7771601
             }
         }
     }
@@ -474,6 +486,12 @@ beards_scripted_characters = {
                 exists = character:easteregg_peter_johannesson
                 this = character:easteregg_peter_johannesson
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771501
+                this = character:7771501
+            }
         }
     }
 
@@ -489,6 +507,12 @@ beards_scripted_characters = {
         weight = {
             base = 0
 
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771901
+                this = character:7771901
+            }
         }
     }
 

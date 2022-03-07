@@ -1,0 +1,35 @@
+﻿7771501 = {
+	name = "Terry"
+	dna = terry_dna
+	dynasty = 7771500
+	sexuality = heterosexual
+	martial = 11
+	prowess = 6
+	diplomacy = 11
+	intrigue = 13
+	stewardship = 12
+	learning = 8
+	religion = catholic
+	culture = swabian
+	trait = education_stewardship_3
+	trait = greedy
+	trait = deceitful
+	trait = stubborn
+	trait = dwarf
+	trait = bleeder
+	disallow_random_traits = yes
+	1015.1.1 = {
+		birth = yes
+	}
+}
+
+7771503 = {
+    name = Terrence
+	dynasty = 7771500
+	religion = catholic
+	culture = swabian
+	father = 7771501
+	1064.1.1 = {
+	    birth = yes
+	}
+}

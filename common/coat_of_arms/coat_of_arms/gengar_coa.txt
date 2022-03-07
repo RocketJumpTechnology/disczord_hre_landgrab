@@ -1,17 +1,76 @@
 777300={
     custom=yes
     pattern="pattern__solid_designer.dds"
-    color1=black
-    color2=brown
-    color3=black
+    color1=purple
+    color2=white
+    color3=red
     colored_emblem={
-            color1=brown
-            color2=red
-            color3=white
-            texture="ce_odins_face.dds"
-            instance={
-                    position={ 0.500000 0.430000 }
-            }
+        color1=black
+        texture="ce_rake.dds"
+        instance={
+            position={ 0.500000 0.830000 }
+            scale={ 0.770000 0.770000 }
+            depth=1.010000
+            rotation=180
+        }
 
     }
+
+    colored_emblem={
+        color1=red
+        texture="ce_ordinary_pile_inverted.dds"
+        instance={
+            position={ 0.750000 0.300000 }
+            scale={ 0.410000 0.410000 }
+            depth=4.010000
+            rotation=226
+        }
+
+        instance={
+            position={ 0.310000 0.320000 }
+            scale={ 0.410000 0.410000 }
+            depth=5.010000
+            rotation=132
+        }
+
+    }
+
+    colored_emblem={
+        color1=purple
+        color2=purple
+        texture="ce_breeches.dds"
+        instance={
+            position={ 0.500000 1.000000 }
+            scale={ 1.000000 0.590000 }
+        }
+
+    }
+
+    colored_emblem={
+        color1=black
+        texture="ce_circle.dds"
+        instance={
+            position={ 0.310000 0.300000 }
+            scale={ 0.090000 0.090000 }
+            depth=2.010000
+        }
+
+        instance={
+            position={ 0.760000 0.310000 }
+            scale={ 0.110000 0.110000 }
+            depth=3.010000
+        }
+
+    }
+
+    colored_emblem={
+        color1=white
+        texture="ce_norse_longship.dds"
+        instance={
+            position={ 0.500000 0.680000 }
+            depth=6.010000
+        }
+
+    }
+
 }

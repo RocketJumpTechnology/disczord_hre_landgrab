@@ -1,0 +1,6 @@
+﻿7771600 = {
+    prefix = "dynnp_mac"
+	name = "Diarmata"
+	culture = "scottish"
+	motto = motto_kruzo
+}

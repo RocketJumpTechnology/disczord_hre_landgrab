@@ -1,0 +1,25 @@
+﻿7771901 = {
+	name = "John"
+	dna = xs_dna
+	dynasty = 7771900
+	sexuality = heterosexual
+	martial = 5
+	prowess = 0
+	diplomacy = 11
+	intrigue = 5
+	stewardship = 5
+	learning = 8
+	religion = catholic
+	culture = franconian
+	trait = education_intrigue_4
+	trait = temperate
+	trait = paranoid
+	trait = callous
+	trait = ambitious
+	trait = shrewd
+	trait = journaller
+	disallow_random_traits = yes
+	1050.1.1 = {
+		birth = yes
+	}
+}

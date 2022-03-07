@@ -1,0 +1,28 @@
+778700={
+	pattern="pattern_quarter.dds"
+	color1=rgb { 184 181 181 }
+	color2=rgb { 4 19 34 }
+	color3=blue
+	colored_emblem={
+		color1=rgb { 184 36 15 }
+		texture="ce_snake_witch.dds"
+		instance={
+			position={ 0.270000 0.260000 }
+			scale={ 0.460000 0.460000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 201 165 141 }
+		color2=black
+		texture="ce_wildman.dds"
+		instance={
+			position={ 0.680000 0.580000 }
+			scale={ 0.610000 0.610000 }
+		}
+
+	}
+
+}

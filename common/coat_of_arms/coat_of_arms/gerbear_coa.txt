@@ -1,0 +1,29 @@
+778100={
+	pattern="pattern_solid.dds"
+	color1=rgb { 19 175 35 }
+	color2=white
+	color3=red
+	colored_emblem={
+		color1=blue_light
+		texture="ce_african_gecko.dds"
+		instance={
+			position={ 0.410000 0.320000 }
+			scale={ 0.710000 0.710000 }
+			depth=1.010000
+			rotation=231
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 101 99 99 }
+		texture="ce_arm_holding_sword.dds"
+		instance={
+			position={ 0.610000 0.590000 }
+			scale={ 0.810000 0.810000 }
+			rotation=340
+		}
+
+	}
+
+}

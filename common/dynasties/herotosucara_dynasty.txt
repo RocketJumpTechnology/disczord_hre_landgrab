@@ -1,0 +1,5 @@
+﻿778700 = {
+	name = "Herotosucara"
+	culture = "saxon"
+	motto = motto_herotosucara
+}
