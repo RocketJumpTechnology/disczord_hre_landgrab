@@ -387,6 +387,12 @@ beards_scripted_characters = {
                 exists = character:easteregg_alexander_oltner
                 this = character:easteregg_alexander_oltner
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7771601
+                this = character:7771601
+            }
         }
     }
 
