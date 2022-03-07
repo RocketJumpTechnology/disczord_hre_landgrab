@@ -1,0 +1,26 @@
+﻿7772601 = {
+	name = "Qaz"
+	dynasty = 7772600
+	sexuality = heterosexual
+	martial = 9
+	prowess = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 10
+	learning = 7
+	religion = catholic
+	culture = bavarian
+	trait = education_diplomacy_4
+	trait = temperate
+	trait = diligent
+	trait = zealous
+	trait = paranoid
+	trait = forgiving
+	trait = compassionate
+	trait = flagellant
+	trait = beauty_good_2
+	disallow_random_traits = yes
+	1050.1.1 = {
+		birth = yes
+	}
+}

@@ -1,0 +1,5 @@
+﻿7772600 = {
+	name = "Qazcdewsx"
+	culture = "bavarian"
+	motto = motto_qazcdewsx
+}
