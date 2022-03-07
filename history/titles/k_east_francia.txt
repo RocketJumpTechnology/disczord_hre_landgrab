@@ -2889,6 +2889,9 @@ c_zurich = {
 	1055.11.13 = {
 		holder = 20245
 	}
+	1066.1.1 = {
+	    holder = 7772201
+	}
 	1111.4.11 = {
 		holder = 213146
 	}
@@ -3982,7 +3985,7 @@ c_furstenberg = {
 		liege = d_swabia
 	}
 	1066.1.1 = {
-		holder = 20245
+	    holder = 7772201
 	}
 	1079.1.1 = {
 		holder = 7054 #Friedrich I von Hohenstaufen

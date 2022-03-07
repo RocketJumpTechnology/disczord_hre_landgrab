@@ -121,6 +121,12 @@ hairstyles_scripted_characters = {
 				exists = character:144998 #king_lothaire
 				this = character:144998 #king_lothaire
             }
+            modifier = {
+                add = 200
+				exists = this
+				exists = character:7772201
+				this = character:7772201
+            }
         }
     }
 
