@@ -66,6 +66,12 @@ beards = {
                 exists = character:7772201
                 this = character:7772201
             }
+            modifier = {
+                add = 200
+                exists = this
+                exists = character:7772401
+                this = character:7772401
+            }
             portrait_clean_shaven_clothing_modifier = yes
         }
     }

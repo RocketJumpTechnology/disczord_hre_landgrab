@@ -2560,7 +2560,7 @@ c_nassau = {
 		liege = "d_east_franconia"
 	}
 	1066.1.1 = {
-		holder = franconian0002
+		holder = 7772401
 	}
 	1094.1.1 = {
 		holder = 30721
