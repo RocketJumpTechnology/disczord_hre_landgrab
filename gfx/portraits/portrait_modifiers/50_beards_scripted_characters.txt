@@ -281,6 +281,12 @@ beards_scripted_characters = {
                 exists = character:108500 #king_alfonso
                 this = character:108500 #king_alfonso
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7772701
+                this = character:7772701
+            }
         }
     }
 

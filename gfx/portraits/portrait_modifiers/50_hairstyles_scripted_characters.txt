@@ -165,6 +165,12 @@ hairstyles_scripted_characters = {
                 exists = character:146 #william_the_red
                 this = character:146 #william_the_red
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7772701
+                this = character:7772701
+            }
         }
     }
 
