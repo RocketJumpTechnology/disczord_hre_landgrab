@@ -1,0 +1,5 @@
+﻿7771900 = {
+	name = "Lyskaris"
+	culture = "franconian"
+	motto = motto_xs
+}
