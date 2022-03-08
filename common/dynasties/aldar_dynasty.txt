@@ -1,0 +1,4 @@
+﻿7781400 = {
+	name = "Aldar"
+	culture = "danish"
+}

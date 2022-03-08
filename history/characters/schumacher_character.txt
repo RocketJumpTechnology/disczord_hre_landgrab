@@ -1,0 +1,151 @@
+﻿7781201 = {
+	name = "Michael"
+	dna = schumacher_dna
+	sexuality = heterosexual
+	dynasty = 7781200
+	father = 7781208
+	mother = 7781209
+	martial = 5
+	prowess = 5
+	diplomacy = 2
+	intrigue = 3
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = german
+	trait = ambitious
+	trait = education_martial_4
+	trait = diligent
+	trait = patient
+	trait = strategist
+	trait = whole_of_body
+	disallow_random_traits = yes
+	1029.1.1 = {
+		birth = yes
+	}
+	1050.1.2 = {
+	    add_spouse = 7781202
+    }
+}
+7781202 = {
+	name = "Corinna"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1028.1.1 = {
+		birth = yes
+	}
+	1050.1.2 = {
+	    add_spouse = 7781201
+    }
+}
+
+7781203 = {
+	name = "Gina-Marie"
+	dynasty = 7781200
+	female = yes
+	father = 7781201
+	mother = 7781202
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1054.1.1 = {
+		birth = yes
+	}
+
+}
+7781204 = {
+	name = "Mick"
+	dynasty = 7781200
+	father = 7781201
+	mother = 7781202
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1057.1.1 = {
+		birth = yes
+	}
+
+}
+
+7781205 = {
+	name = "Ralf"
+	dna = schumacher2_dna
+	sexuality = heterosexual
+	dynasty = 7781200
+	father = 7781208
+	mother = 7781209
+	martial = 4
+	prowess = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = german
+	trait = greedy
+	trait = education_stewardship_3
+	trait = honest
+	trait = callous
+	trait = cynical
+	trait = administrator
+	disallow_random_traits = yes
+	1032.1.1 = {
+		birth = yes
+	}
+}
+
+7781206 = {
+	name = "Cora-Caroline"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1035.1.1 = {
+		birth = yes
+	}
+}
+
+7781207 = {
+	name = "David"
+	dynasty = 7781200
+	father = 7781205
+	mother = 7781206
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1058.1.1 = {
+		birth = yes
+	}
+
+}
+7781208 = {
+	name = "Rolf"
+	dynasty = 7781200
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1009.1.1 = {
+		birth = yes
+	}
+	1030.1.2 = {
+	    add_spouse = 7781209
+    }
+	1060.1.1 = {
+		death = yes
+	}
+}
+7781209 = {
+	name = "Elisabeth"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1010.1.1 = {
+		birth = yes
+	}
+	1030.1.2 = {
+	    add_spouse = 7781208
+    }
+}

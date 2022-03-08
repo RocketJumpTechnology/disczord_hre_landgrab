@@ -425,6 +425,12 @@ beards_scripted_characters = {
                 exists = character:102531 #harald_hardrade
                 this = character:102531 #harald_hardrade
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7781401
+                this = character:7781401
+            }
         }
     }
 

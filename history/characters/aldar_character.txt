@@ -1,0 +1,65 @@
+﻿7781401 = {
+	name = "Aldar"
+	dna = aldar_dna
+	sexuality = heterosexual
+	dynasty = 7781400
+	martial = 9
+	prowess = 11
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = danish
+	trait = diligent
+	trait = education_martial_3
+	trait = generous
+	trait = brave
+	trait = eager_reveler
+	trait = berserker
+	disallow_random_traits = yes
+	1031.1.1 = {
+		birth = yes
+	}
+	1052.1.2 = {
+	    add_spouse = 7781402
+    }
+}
+7781402 = {
+	name = "Ulrika"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = swedish
+	1037.1.1 = {
+		birth = yes
+	}
+	1052.1.2 = {
+	    add_spouse = 7781401
+    }
+}
+
+7781403 = {
+    name = Aldar
+	dynasty = 7781400
+	religion = catholic
+	culture = danish
+	father = 7781401
+	mother = 7781402
+	1059.1.1 = {
+	    birth = yes
+	}
+}
+
+7781404 = {
+    name = Greta
+	dynasty = 7781400
+	religion = catholic
+	female = yes
+	culture = danish
+	father = 7781401
+	mother = 7781402
+	1063.1.1 = {
+	    birth = yes
+	}
+}

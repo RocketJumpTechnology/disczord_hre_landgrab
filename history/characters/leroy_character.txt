@@ -1,0 +1,69 @@
+﻿7781301 = {
+	name = "Leftie"
+	dna = leroy_dna
+	sexuality = heterosexual
+	dynasty = 7781300
+	martial = 14
+	prowess = 10
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = german
+	trait = education_martial_1
+	trait = ambitious
+	trait = fickle
+	trait = vengeful
+	trait = gallant
+	trait = profligate
+	trait = athletic
+	disallow_random_traits = yes
+	1027.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 7781302
+    }
+}
+
+7781302 = {
+	name = "Twoplus"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = franconian
+	1032.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 7781301
+    }
+}
+
+7781303 = {
+	name = "Leftie"
+	dynasty = 7781300
+	father = 7781301
+	mother = 7781302
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1051.1.1 = {
+		birth = yes
+	}
+
+}
+7781304 = {
+	name = "Rightie"
+	dynasty = 7781300
+	father = 7781301
+	mother = 7781302
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1055.1.1 = {
+		birth = yes
+	}
+
+}

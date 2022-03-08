@@ -1,0 +1,44 @@
+7781300={
+        pattern="pattern_solid.dds"
+        color1=rgb { 137 18 2 }
+        color2=white
+        color3=red
+        colored_emblem={
+                color1=rgb { 231 198 149 }
+                texture="ce_circle_mask.dds"
+                instance={
+                        position={ 0.400000 0.380000 }
+                        scale={ 0.480000 0.480000 }
+                        depth=3.010000
+                }
+
+        }
+
+        colored_emblem={
+                color1=black
+                texture="ce_suomenusko_sun_07.dds"
+                instance={
+                        position={ 0.660000 0.620000 }
+                        scale={ 0.420000 0.420000 }
+                }
+
+                instance={
+                        position={ 0.400000 0.380000 }
+                        scale={ 0.630000 0.630000 }
+                        depth=1.010000
+                }
+
+        }
+
+        colored_emblem={
+                color1=rgb { 232 196 141 }
+                texture="ce_circle_mask.dds"
+                instance={
+                        position={ 0.660000 0.620000 }
+                        scale={ 0.340000 0.340000 }
+                        depth=2.010000
+                }
+
+        }
+
+}

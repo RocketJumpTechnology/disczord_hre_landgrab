@@ -87,6 +87,12 @@ hairstyles_scripted_characters = {
                 exists = character:778101
                 this = character:778101
             }
+           modifier = {
+                add = 200
+				exists = this
+                exists = character:7781201
+                this = character:7781201
+            }
         }
     }
 
@@ -350,6 +356,12 @@ hairstyles_scripted_characters = {
 				exists = this
                 exists = character:easteregg_martin_anward
                 this = character:easteregg_martin_anward
+            }
+           modifier = {
+                add = 200
+				exists = this
+                exists = character:7781205
+                this = character:7781205
             }
         }
     }
@@ -887,6 +899,12 @@ hairstyles_scripted_characters = {
         }   
         weight = {
             base = 0
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7781401
+                this = character:7781401
+            }
         }
     }
 

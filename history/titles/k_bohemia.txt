@@ -1803,7 +1803,7 @@ c_brno = {
 	#	holder = 0
 	#}
 	1061.1.1 = {
-		holder = 526
+		holder = 7781601
 	}
 	1066.1.1 = {
 		liege = "d_bohemia"
@@ -1941,7 +1941,7 @@ c_jihlava = {
 	#	holder = 0
 	#}
 	1061.1.1 = {
-		holder = 526
+		holder = 7781601
 	}
 	1066.1.1 = {
 		liege = "d_bohemia"
@@ -2089,7 +2089,7 @@ c_znojmo = {
 		holder = 187006
 	}
 	1061.1.1 = {
-		holder = 526
+		holder = 7781601
 	}
 	1066.1.1 = {
 		liege = "d_bohemia"

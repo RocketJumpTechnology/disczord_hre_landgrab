@@ -1,0 +1,5 @@
+﻿7781600 = {
+	name = "TomasT"
+	culture = "czech"
+	motto = motto_tomast
+}
