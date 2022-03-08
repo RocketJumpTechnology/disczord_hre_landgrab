@@ -107,8 +107,9 @@ brainlord_dna={
                                  teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
                                  eyelashes_accessory={ "asian_eyelashes" 101 "asian_eyelashes" 101 }
                                  hairstyles={ "steppe_hairstyles_straight" 255 "all_hairstyles" 0 }
+ 			                    headgear={ "male_headgear_secular_ep1_diamond_crown" 255 "no_headgear" 0 }
                                  beards={ "western_beards_straight" 110 "no_beard" 0 }
-                                 clothes={ "western_bedchamber" 79 "most_clothes" 0 }
+                                 clothes={ "male_clothes_religious_orthodox_head_01_common" 255 "most_clothes" 0 }
         }
     }
 	enabled=yes

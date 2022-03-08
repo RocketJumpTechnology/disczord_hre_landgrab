@@ -38,3 +38,264 @@
 	    add_spouse = 7772802
     }
 }
+
+
+7772803 = {
+    name = King
+    dna = brainlord_dna
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_3
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772804 = {
+    name = Queen
+    dna = brainlord_dna
+    female = yes
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_3
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772805 = {
+    name = Duke
+    dna = brainlord_dna
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_3
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772806 = {
+    name = Lady
+    dna = brainlord_dna
+    female = yes
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_2
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772807 = {
+    name = Count
+    dna = brainlord_dna
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_2
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772808 = {
+    name = Duchess
+    dna = brainlord_dna
+    female = yes
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_2
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772809 = {
+    name = Baron
+    dna = brainlord_dna
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_1
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772810 = {
+    name = Countess
+    dna = brainlord_dna
+    female = yes
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_1
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772811 = {
+    name = Graf
+    dna = brainlord_dna
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_1
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772812 = {
+    name = Baroness
+    dna = brainlord_dna
+    female = yes
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	mother = 7772802
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772813 = {
+    name = Sultan
+    dna = brainlord_dna
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_1
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772814 = {
+    name = Gravin
+    dna = brainlord_dna
+    female = yes
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_1
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772815 = {
+    name = Lorde
+    dna = brainlord_dna
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_bad_1
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772816 = {
+    name = Sultana
+    dna = brainlord_dna
+    female = yes
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_bad_1
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772817 = {
+    name = Lloyd
+    dna = brainlord_dna
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_bad_2
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772818 = {
+    name = Maharini
+    dna = brainlord_dna
+    female = yes
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_bad_2
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772819 = {
+    name = Brain
+    dna = brainlord_dna
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_good_3
+	1064.3.1 = {
+	    birth = yes
+	}
+}
+
+7772820 = {
+    name = Lloydy
+    dna = brainlord_dna
+    female = yes
+	dynasty = 7772800
+	religion = catholic
+	culture = burmese
+	father = 7772801
+	trait = twin
+	trait = intellect_bad_3
+	1064.3.1 = {
+	    birth = yes
+	}
+}
