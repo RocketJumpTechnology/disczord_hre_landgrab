@@ -46,3 +46,25 @@ title_lady = {
 	titles = { d_luxembourg }
 	top_liege = no
 }
+
+title_brainlord = {
+    type = character
+    gender = male
+    special = holder
+	tier = county
+	priority = 60
+	top_liege = no
+	governments = { feudal_government }
+	heritages = { heritage_burman }
+}
+
+title_brainlady = {
+    type = character
+    gender = female
+    special = holder
+	tier = county
+	priority = 60
+	top_liege = no
+	governments = { feudal_government }
+	heritages = { heritage_burman }
+}

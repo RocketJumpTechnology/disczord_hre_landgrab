@@ -177,6 +177,12 @@ beards_scripted_characters = {
                 exists = character:1128 #duke_robert
                 this = character:1128 #duke_robert
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:77728201
+                this = character:77728201
+            }
         }
     }
 

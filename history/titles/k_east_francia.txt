@@ -5469,7 +5469,7 @@ c_brene = {
 		holder = 7032 #Lothar-Udo II
 	}
 	1066.1.1 = {
-		holder = 33370 # Gero Wettin
+		holder = 7772801
 	}
 	1082.1.2 = {
 		holder = 7034 #Heinrich I
