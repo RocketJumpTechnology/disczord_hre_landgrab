@@ -1894,7 +1894,7 @@ c_lombardia = {
 	#	holder = # Commune of Milan, unknown rulers (1045-1065)
 	#}
 	1065.1.1 = {
-		holder = cisalpine0661 # Giordano di Bresciano, Podest� 
+		holder = 7771406
 	}
 	#1069.1.1 = {
 	#	holder = # Commune of Milan, unknown rulers (1069-1075)

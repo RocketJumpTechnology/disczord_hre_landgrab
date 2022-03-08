@@ -4,3 +4,10 @@
 	culture = "yoruba"
 	motto = motto_razta
 }
+
+7771405 = {
+    prefix = "dynnp_af"
+	name = "Norlin"
+	culture = "yoruba"
+	motto = motto_razta
+}
