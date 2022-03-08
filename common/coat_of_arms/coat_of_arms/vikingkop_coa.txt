@@ -1,0 +1,86 @@
+7773000={
+	custom=yes
+	pattern="pattern_diagonal_split_01.dds"
+	color1=rgb { 201 78 3 }
+	color2=rgb { 127 28 88 }
+	color3=black
+	colored_emblem={
+		color1=rgb { 255 206 38 }
+		texture="ce_letter_t.dds"
+		instance={
+			position={ 0.690000 0.400000 }
+			scale={ 0.330000 0.330000 }
+			depth=2.010000
+			rotation=9
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 255 206 38 }
+		texture="ce_letter_s.dds"
+		instance={
+			position={ 0.870000 0.400000 }
+			scale={ 0.220000 0.300000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 255 206 38 }
+		texture="ce_letter_e.dds"
+		instance={
+			position={ 0.470000 0.430000 }
+			scale={ 0.260000 0.260000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 255 206 38 }
+		texture="ce_letter_e.dds"
+		instance={
+			position={ 0.580000 0.430000 }
+			scale={ 0.270000 0.270000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 255 206 38 }
+		texture="ce_letter_o.dds"
+		instance={
+			position={ 0.780000 0.430000 }
+			scale={ 0.200000 0.200000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 255 206 38 }
+		texture="ce_letter_c.dds"
+		instance={
+			position={ 0.220000 0.470000 }
+			scale={ 0.480000 0.400000 }
+			depth=6.010000
+			rotation=343
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 255 206 38 }
+		texture="ce_letter_h.dds"
+		instance={
+			position={ 0.360000 0.490000 }
+			scale={ 0.240000 0.240000 }
+			depth=5.010000
+			rotation=348
+		}
+
+	}
+
+}

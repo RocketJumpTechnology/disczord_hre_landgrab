@@ -1,4 +1,5 @@
 ﻿shadekin_dna={
+	portrait_info = {
         type=boy
         genes={
                 hair_color={ 47 248 47 248 }

@@ -1,4 +1,5 @@
 ﻿razta_dna={
+	portrait_info = {
         type=male
         genes={
                 hair_color={ 6 248 100 232 }

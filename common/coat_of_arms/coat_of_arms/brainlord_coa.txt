@@ -1,0 +1,30 @@
+7772800={
+        custom=yes
+        pattern="pattern_checkers_06.dds"
+        color1=rgb { 98 220 110 }
+        color2=rgb { 238 53 183 }
+        color3=red
+        colored_emblem={
+                color1=white
+                color2=orange
+                texture="ce_breeches.dds"
+                instance={
+                        position={ 0.610000 0.730000 }
+                        scale={ 0.500000 0.500000 }
+                        depth=1.010000
+                }
+
+        }
+
+        colored_emblem={
+                color1=rgb { 255 194 230 }
+                color2=rgb { 255 208 236 }
+                texture="ce_religion_west_african_bori.dds"
+                instance={
+                        position={ 0.500000 0.290000 }
+                        scale={ 0.600000 0.390000 }
+                }
+
+        }
+
+}

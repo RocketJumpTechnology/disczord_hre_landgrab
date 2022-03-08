@@ -28,6 +28,12 @@ custom_hair = {
                 exists = character:7781101
                 this = character:7781101
             }
+			modifier = {
+                add = 200
+                exists = this
+                exists = character:7773001
+                this = character:7773001
+            }
 		}
 	}
 

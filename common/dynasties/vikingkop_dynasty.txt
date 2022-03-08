@@ -1,0 +1,6 @@
+﻿7773000 = {
+    prefix = "dynnp_von"
+	name = "Magnethands"
+	culture = "bavarian"
+	motto = motto_vikingkop
+}

@@ -131,6 +131,12 @@ beards_scripted_characters = {
                 exists = character:easteregg_nikolaos_kaltsogiannis
                 this = character:easteregg_nikolaos_kaltsogiannis
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7773001
+                this = character:7773001
+            }
         }
     }
 
@@ -180,8 +186,8 @@ beards_scripted_characters = {
             modifier = {
                 add = 200
 				exists = this
-                exists = character:77728201
-                this = character:77728201
+                exists = character:7772801
+                this = character:7772801
             }
         }
     }

@@ -110,5 +110,5 @@ gerbear_dna={
  		clothes={ "western_bedchamber" 79 "most_clothes" 0 }
     }
  }
-	entity={ 0 0 }
+ enabled = yes
 }

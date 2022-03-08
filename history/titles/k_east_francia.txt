@@ -2687,7 +2687,7 @@ c_grisons = {
 	}
 	
 	1066.1.1 = {
-		holder = 20299
+		holder = 7771406
 		liege = d_lombardia
 	}
 	1128.12.15 = {

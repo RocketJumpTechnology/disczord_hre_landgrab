@@ -3594,7 +3594,7 @@ d_steyermark = {
 		holder = 7200
 	}
 	1066.1.1 = {
-		holder = 1620
+		holder = 7773001
 	}
 	1075.6.10 = {
 		holder = 212548
@@ -3707,13 +3707,13 @@ c_graz = {
 		holder = 32005
 	}
 	1025.5.1 = {
-		holder = 1620
+		holder = 7773001
 	}
 	1065.1.1 = {
 		liege = d_steyermark
 	}
 	1066.1.1 = {
-		holder = 1620
+		holder = 7773001
 	}
 	1075.3.29 = {
 		holder = 40719
@@ -3830,7 +3830,7 @@ c_pitten = {
 		holder = 32005
 	}
 	1025.5.1 = {
-		holder = 1620
+		holder = 7773001
 	}
 	1066.1.1 = {
 		liege = d_steyermark
@@ -3951,7 +3951,7 @@ c_liebnitz = {
 		holder = 32005
 	}
 	1025.5.1 = {
-		holder = 1620
+		holder = 7773001
 	}
 	1065.1.1 = {
 		liege = d_steyermark
@@ -4074,7 +4074,7 @@ c_murzzuschlag = {
 		holder = 32005
 	}
 	1025.5.1 = {
-		holder = 1620
+		holder = 7773001
 	}
 	1065.1.1 = {
 		liege = d_steyermark
@@ -5687,7 +5687,7 @@ c_knittelfeld = {
 		holder = 70622
 	}
 	1066.1.1 = {
-		holder = 1620
+		holder = 7773001
 	}
 	1076.6.16 = {
 		holder = 70623
