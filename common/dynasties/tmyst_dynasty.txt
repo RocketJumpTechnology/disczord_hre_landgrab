@@ -1,0 +1,5 @@
+7772900 = {
+	name = "Myst"
+	culture = "franconian"
+	motto = motto_tmyst
+}

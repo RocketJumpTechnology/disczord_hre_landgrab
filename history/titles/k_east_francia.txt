@@ -1683,7 +1683,7 @@ c_ansbach = {
 		liege = "d_swabia"
 	}
 	1066.1.1 = {
-		holder = 20237
+		holder = 7772901
 	}
 	1080.10.15 = {
 		holder = 1390
@@ -1846,7 +1846,7 @@ c_hohenlohe = {
 		liege = "d_swabia"
 	}
 	1066.1.1 = {
-		holder = 20237
+		holder = 7772901
 	}
 	1080.10.15 = {
 		holder = 1390
