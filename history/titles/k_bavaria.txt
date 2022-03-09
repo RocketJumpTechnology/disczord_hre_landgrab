@@ -343,7 +343,7 @@ c_munchen = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 33410
+		holder = 7773301
 	}
 	1070.1.1 = {
 		holder = 1530

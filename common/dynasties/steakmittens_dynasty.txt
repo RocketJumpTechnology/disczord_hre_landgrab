@@ -1,0 +1,5 @@
+﻿7773300 = {
+	name = "Handschuhe"
+	culture = "bavarian"
+	motto = motto_steakmittens
+}
