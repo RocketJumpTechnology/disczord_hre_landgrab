@@ -1,0 +1,26 @@
+﻿776101 = {
+	name = "Nuffle"
+	dna = nuffle_dna
+	sexuality = asexual
+	martial = 11
+	prowess = 11
+	diplomacy = 11
+	intrigue = 11
+	stewardship = 11
+	learning = 11
+	religion = catholic
+	culture = roman
+	trait = education_intrigue_2
+	trait = arbitrary
+	trait = fickle
+	trait = lunatic_genetic
+	trait = overseer
+	trait = torturer
+	trait = open_terrain_expert
+	trait = divine_blood
+	trait = disfigured
+	disallow_random_traits = yes
+	1034.1.1 = {
+		birth = yes
+	}
+}

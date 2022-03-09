@@ -4858,7 +4858,7 @@ c_orbetello = {
 		holder = 167911
 	}
 	1061.7.27 = {
-		holder = 2008
+		holder = 776101
 		liege = k_papal_state
 	}
 	1073.4.21 = {
