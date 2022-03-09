@@ -343,7 +343,7 @@ c_munchen = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 33410
+		holder = 7773301
 	}
 	1070.1.1 = {
 		holder = 1530
@@ -3957,7 +3957,7 @@ c_liebnitz = {
 		liege = d_steyermark
 	}
 	1066.1.1 = {
-		holder = 167495
+		holder = 7781101
 	}
 	1075.3.29 = {
 		holder = 40719
@@ -5960,7 +5960,7 @@ c_kranj = {
 		holder = 1616
 	}
 	1064.1.1 = {
-		holder = 7781101
+		holder = 7704
 	}
 	1070.3.6 = {
 		holder = 7300

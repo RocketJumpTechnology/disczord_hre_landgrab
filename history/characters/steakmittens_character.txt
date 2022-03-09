@@ -1,0 +1,82 @@
+﻿7773302 = {
+	name = "Loin"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = bavarian
+	1034.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7773301
+    }
+}
+
+7773301 = {
+	name = "Fillete"
+	dynasty = 7773300
+	sexuality = heterosexual
+	martial = 3
+	prowess = 7
+	diplomacy = 12
+	intrigue = 8
+	stewardship = 15
+	learning = 15
+	religion = catholic
+	culture = bavarian
+	trait = education_learning_3
+	trait = gluttonous
+	trait = giant
+	trait = beauty_bad_1
+	trait = reveler_2
+	trait = comfort_eater
+	disallow_random_traits = yes
+	1034.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7773302
+    }
+}
+
+7773303 = {
+    name = Fillete
+	dynasty = 7773300
+	religion = catholic
+	culture = bavarian
+	father = 7773301
+	mother = 7773302
+	trait = twin
+	trait = giant
+	1064.9.1 = {
+	    birth = yes
+	}
+}
+
+7773304 = {
+    name = DowryPlz
+    female = yes
+	dynasty = 7773300
+	religion = catholic
+	culture = bavarian
+	father = 7773301
+	mother = 7773302
+	trait = twin
+	trait = giant
+	1064.9.1 = {
+	    birth = yes
+	}
+}
+
+7773305 = {
+    name = Backup
+	dynasty = 7773300
+	religion = catholic
+	culture = bavarian
+	father = 7773301
+	mother = 7773302
+	trait = giant
+	1065.9.1 = {
+	    birth = yes
+	}
+}

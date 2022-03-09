@@ -1,0 +1,77 @@
+﻿7773402 = {
+	name = "Zsinijee"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = italian
+	1044.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7773401
+    }
+}
+
+7773401 = {
+	name = "Basmans"
+	dna = basmans_dna
+	dynasty = 7773400
+	sexuality = heterosexual
+	martial = 5
+	prowess = 6
+	diplomacy = 11
+	intrigue = 12
+	stewardship = 10
+	learning = 10
+	religion = catholic
+	culture = italian
+	trait = education_stewardship_2
+	trait = shy
+	trait = paranoid
+	trait = administrator
+	trait = mystic_3
+	disallow_random_traits = yes
+	1044.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7773402
+    }
+}
+
+7773403 = {
+    name = "the French"
+	dynasty = 7773400
+	religion = catholic
+	culture = italian
+	father = 7773401
+	mother = 7773402
+	1062.9.1 = {
+	    birth = yes
+	}
+}
+
+7773404 = {
+    name = Alkeines
+    female = yes
+	dynasty = 7773400
+	religion = catholic
+	culture = italian
+	father = 7773401
+	mother = 7773402
+	1064.9.1 = {
+	    birth = yes
+	}
+}
+
+7773405 = {
+    name = "the English"
+	dynasty = 7773400
+	religion = catholic
+	culture = italian
+	father = 7773401
+	mother = 7773402
+	1063.9.1 = {
+	    birth = yes
+	}
+}

@@ -1,0 +1,52 @@
+﻿7773502 = {
+	name = "Ken"
+	sexuality = heterosexual
+    religion = catholic
+    culture = dutch
+	1021.1.1 = {
+		birth = yes
+	}
+	1053.1.2 = {
+	    add_spouse = 7773501
+    }
+}
+
+7773501 = {
+	name = "Barbierosa"
+	female = yes
+	dna = gengar_bonus_dna
+	dynasty = 7773500
+	sexuality = heterosexual
+	martial = 13
+	prowess = 19
+	diplomacy = 0
+	intrigue = 9
+	stewardship = 2
+	learning = 0
+	religion = catholic
+	culture = dutch
+	trait = education_martial_1
+	trait = callous
+	trait = wrathful
+	trait = vengeful
+	trait = arbitrary
+	trait = lazy
+	trait = paranoid
+	trait = cannibal
+	trait = berserker
+	trait = albino
+	trait = scaly
+	trait = one_eyed
+	trait = irritable
+	trait = torturer
+	trait = reaver
+	trait = shieldmaiden
+	trait = aggressive_attacker
+	disallow_random_traits = yes
+	1021.1.1 = {
+		birth = yes
+	}
+	1053.1.2 = {
+	    add_spouse = 7773502
+    }
+}

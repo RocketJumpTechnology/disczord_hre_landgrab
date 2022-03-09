@@ -23,7 +23,7 @@ k_papal_state = {
 	always_follows_primary_heir = yes
 	de_jure_drift_disabled = yes
 
-	male_names = { Alexander Anastasius Benedictus Caelestinus Callistus Clemens Eugenius Leo Gregorius Hadrianus Honorius Innocentius Ioannes Lucius Marinus Martinus Nicolaus Sergius Silvester Stephanus Urbanus Victor }
+	male_names = { Nuffle }
 }
 
 k_orthodox = {

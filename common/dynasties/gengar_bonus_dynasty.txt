@@ -1,0 +1,5 @@
+﻿7773500 = {
+	name = "Dread"
+	culture = "dutch"
+	motto = motto_gengar_bonus
+}

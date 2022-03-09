@@ -2,3 +2,9 @@
 	name = "The Iguana of Israel"
 	culture = "franconian"
 }
+
+7773100 = {
+	name = "Evil"
+	culture = "franconian"
+	motto = motto_orenog_evil
+}
