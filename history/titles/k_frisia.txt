@@ -1087,7 +1087,7 @@ c_frisia = {
 	}
 	1066.1.1 = {
 		liege = "e_hre"
-		holder = dutch0002
+		holder = 7773501
 	}
 	1068.1.1 = {
 		holder = 106515 #Ekbert II von Braunschweig
