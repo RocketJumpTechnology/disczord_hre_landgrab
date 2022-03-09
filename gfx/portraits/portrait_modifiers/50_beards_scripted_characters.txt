@@ -40,6 +40,12 @@ beards_scripted_characters = {
                 exists = character:easteregg_james_beaumont
                 this = character:easteregg_james_beaumont
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7773901
+                this = character:7773901
+            }
         }
     }
 

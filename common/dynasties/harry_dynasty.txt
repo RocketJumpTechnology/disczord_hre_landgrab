@@ -1,0 +1,5 @@
+﻿7773900 = {
+	name = "Aardvark"
+	culture = "french"
+	motto = motto_harry
+}
