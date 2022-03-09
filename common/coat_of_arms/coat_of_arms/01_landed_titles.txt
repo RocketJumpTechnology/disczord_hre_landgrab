@@ -14630,15 +14630,15 @@ c_perigord = {
 }
 
 c_bar = {
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "yellow"
-	colored_emblem = {
-		texture = "ce_barbels_addorsed.dds"
-		color1 = "yellow"
-		color2 = "yellow"
-		instance = { position = { 0.50 0.48 } scale = { 1.0 1.0 }  }
-	}
+    pattern="pattern_solid.dds"
+    color1=blue_light
+    color2=black
+    color3=white
+    colored_emblem={
+            color1=purple
+            color2=white
+            texture="ce_suomenusko_sun_02.dds"
+    }
 }
 
 c_bouillon = {

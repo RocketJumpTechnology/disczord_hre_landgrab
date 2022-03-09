@@ -1,0 +1,11 @@
+7773600={
+        pattern="pattern_solid.dds"
+        color1=blue_light
+        color2=black
+        color3=white
+        colored_emblem={
+                color1=purple
+                color2=white
+                texture="ce_suomenusko_sun_02.dds"
+        }
+}
