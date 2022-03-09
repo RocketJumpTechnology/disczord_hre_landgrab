@@ -627,7 +627,7 @@ c_erbach = {
 		holder = 20256
 	}
 	1066.1.1 = {
-		holder = 167537
+		holder = 7773110
 	}
 	1106.7.8 = {
 		holder = 7901 #Heinrich V Salier
@@ -5720,7 +5720,7 @@ d_meissen = {
 		holder = 33464
 	}
 	1062.1.1 = {
-		holder = 7060
+		holder = 7773201
 	}
 	1066.1.1 = {
 		de_jure_liege = k_east_francia
@@ -5805,7 +5805,7 @@ c_meissen = {
 		holder = 184007
 	}
 	1062.1.1 = {
-		holder = 7060
+		holder = 7773201
 	}
 	1067.1.1 = {
 		holder = 106510
@@ -5879,7 +5879,7 @@ c_dresden = {
 		holder = 184007
 	}
 	1062.1.1 = {
-		holder = 7060
+		holder = 7773201
 	}
 	1067.1.1 = {
 		holder = 106510

@@ -1,0 +1,18 @@
+7773200={
+        pattern="pattern_checkers_08.dds"
+        color1=red
+        color2=black
+        color3=red
+        colored_emblem={
+                color1=grey
+                color2=rgb { 208 156 128 }
+                texture="ce_axe_long.dds"
+                instance={
+                        position={ 0.500000 0.460000 }
+                        scale={ 0.870000 0.870000 }
+                        rotation=326
+                }
+
+        }
+
+}
