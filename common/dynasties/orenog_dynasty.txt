@@ -1,5 +1,10 @@
-﻿7773100 = {
-	name = "EVIL"
+﻿777100 = {
+	name = "The Iguana of Israel"
 	culture = "franconian"
-	motto = motto_orenog
+}
+
+7773100 = {
+	name = "Evil"
+	culture = "franconian"
+	motto = motto_orenog_evil
 }
