@@ -1,0 +1,6 @@
+﻿7773700 = {
+    prefix = "dynnp_de"
+	name = "Bong"
+	culture = "cisalpine"
+	motto = motto_dooof
+}

@@ -510,6 +510,7 @@ c_bologna = {
 		holder = 167994
 	}	
 	1066.1.1 = {
+	    holder = 7773701
 		liege = "e_hre"
 	}
 	1091.12.10 = {

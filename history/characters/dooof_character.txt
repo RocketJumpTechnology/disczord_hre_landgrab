@@ -1,0 +1,48 @@
+﻿7773702 = {
+	name = "Indica"
+	female = yes
+	sexuality = heterosexual
+	religion = catholic
+	culture = cisalpine
+	1042.1.1 = {
+		birth = yes
+	}
+	1061.1.1 = {
+	    add_spouse = 7773701
+	}
+}
+
+7773701 = {
+	name = "Cannabino"
+	dynasty = 7773700
+	sexuality = heterosexual
+	martial = 3
+	prowess = 2
+	diplomacy = 9
+	intrigue = 6
+	stewardship = 6
+	learning = 8
+	religion = catholic
+	culture = cisalpine
+	trait = education_learning_3
+	trait = calm
+	trait = wheezing
+	trait = hashishiyah
+	disallow_random_traits = yes
+	1042.1.1 = {
+		birth = yes
+	}
+	1061.1.1 = {
+	    add_spouse = 7773702
+	}
+}
+
+7773703 = {
+	name = "Sativa"
+	female = yes
+	religion = catholic
+	culture = cisalpine
+	1063.1.1 = {
+	    birth = yes
+	}
+}
