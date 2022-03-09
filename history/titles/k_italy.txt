@@ -2078,7 +2078,7 @@ c_brescia = {
 		holder = 7758 # Federigo of Tuscany
 	}
 	1055.7.1 = {
-		holder = 7757 # Matilda of Tuscany
+		holder = 7773401 # Matilda of Tuscany
 	}
 	1115.7.24 = {
 		government = republic_government
@@ -2941,7 +2941,7 @@ c_parma = {
 		holder = 71288 # Ghiberto
 	}
 	1111.1.1 = {
-		holder = 7757 # Matilda of Toscana
+		holder = 7773401 # Matilda of Toscana
 	}
 	1115.7.24 = {
 		government = republic_government
@@ -3588,7 +3588,7 @@ c_modena = {
 		holder = 7758 # Federigo of Tuscany
 	}
 	1055.7.1 = {
-		holder = 7757 # Matilda of Tuscany
+		holder = 7773401 # Matilda of Tuscany
 	}
 	1115.7.24 = {
 		government = republic_government
@@ -3738,7 +3738,7 @@ c_mantua = {
 		holder = 7708
 	}
 	1055.7.1 = {
-		holder = 7757 # Matilda of Tuscany
+		holder = 7773401 # Matilda of Tuscany
 	}
 	1115.7.24 = {
 		government = republic_government
@@ -4213,7 +4213,7 @@ d_toscana = {
 		holder = 7758
 	}
 	1055.7.1 = {
-		holder = 7757
+		holder = 7773401
 	}
 	1115.7.24 = {
 		holder = 7901
@@ -4381,7 +4381,7 @@ c_firenze = {
 		holder = 7758
 	}
 	1055.7.1 = {
-		holder = 7757
+		holder = 7773401
 	}
 	1115.7.24 = {
 		holder = 213013
@@ -4670,7 +4670,7 @@ c_arezzo = {
 		holder = 7758
 	}
 	1055.7.1 = {
-		holder = 7757
+		holder = 7773401
 		liege = d_toscana
 	}
 	1060.1.1 = {
@@ -4758,7 +4758,7 @@ c_siena = {
 		holder = 7758
 	}
 	1055.7.1 = {
-		holder = 7757
+		holder = 7773401
 	}
 	1115.7.24 = {
 		holder = 7901
