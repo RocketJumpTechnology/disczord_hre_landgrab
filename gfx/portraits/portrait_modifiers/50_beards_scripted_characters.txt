@@ -625,6 +625,12 @@ beards_scripted_characters = {
 				exists = character:777201 # majorbyte
 				this = character:777201 # majorbyte
 			}
+            modifier = {
+				add = 200
+				exists = this
+				exists = character:7773101
+				this = character:7773101
+			}
         }
     }
 

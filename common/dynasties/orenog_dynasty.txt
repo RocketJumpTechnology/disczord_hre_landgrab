@@ -1,4 +1,5 @@
-﻿777100 = {
-	name = "The Iguana of Israel"
+﻿7773100 = {
+	name = "EVIL"
 	culture = "franconian"
+	motto = motto_orenog
 }
