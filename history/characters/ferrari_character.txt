@@ -1,0 +1,77 @@
+﻿7782101 = {
+	name = "Enzo"
+	sexuality = heterosexual
+	dynasty = 7782100
+	martial = 5
+	prowess = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = italian
+	trait = lustful
+	trait = education_stewardship_3
+	trait = wrathful
+	trait = ambitious
+	trait = zealous
+	trait = avaricious
+	trait = intellect_good_1
+	trait = adulterer
+	disallow_random_traits = yes
+	1020.1.1 = {
+		birth = yes
+	}
+	1044.1.2 = {
+	    add_spouse = 7782102
+    }
+}
+7782102 = {
+	name = "Laura Dominica"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = italian
+	1024.1.1 = {
+		birth = yes
+	}
+	1044.1.2 = {
+	    add_spouse = 7782101
+    }
+}
+7782103 = {
+    name = Dino
+	dynasty = 7782100
+	religion = catholic
+	culture = italian
+	father = 7782101
+	mother = 7782102
+	trait = education_stewardship_3
+	trait = weak
+	1046.9.1 = {
+	    birth = yes
+	}
+}
+7782104 = {
+    name = Piero
+	dynasty = 7782100
+	religion = catholic
+	culture = italian
+	father = 7782101
+	mother = 7782105
+	trait = education_stewardship_3
+	trait = legitimized_bastard
+	1057.4.1 = {
+	    birth = yes
+	}
+}
+7782105 = {
+	name = "Lina"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = italian
+	1032.1.1 = {
+		birth = yes
+	}
+}

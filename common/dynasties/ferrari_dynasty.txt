@@ -1,0 +1,5 @@
+﻿7782100 = {
+	name = "Ferrari"
+	culture = "italian"
+	motto = motto_ferrari
+}

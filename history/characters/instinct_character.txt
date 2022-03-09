@@ -1,0 +1,64 @@
+﻿7782001 = {
+	name = "Sebastian"
+	dna = instinct_dna
+	sexuality = heterosexual
+	dynasty = 7782000
+	martial = 5
+	prowess = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = german
+	trait = diligent
+	trait = education_diplomacy_3
+	trait = wrathful
+	trait = just
+	trait = shy
+	trait = diplomat
+	trait = athletic
+	trait = shrewd
+	disallow_random_traits = yes
+	1045.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7782002
+    }
+}
+7782002 = {
+	name = "Hannah"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = german
+	1046.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7782001
+    }
+}
+7782003 = {
+	name = "Emily"
+	female = yes
+    religion = catholic
+    culture = german
+	father = 7782001
+	mother = 7782002
+	1063.11.1 = {
+		birth = yes
+	}
+}
+7782004 = {
+	name = "Matilda"
+	female = yes
+    religion = catholic
+    culture = german
+	father = 7782001
+	mother = 7782002
+	1065.11.1 = {
+		birth = yes
+	}
+}

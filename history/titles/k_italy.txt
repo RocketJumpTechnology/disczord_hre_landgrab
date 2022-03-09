@@ -684,7 +684,7 @@ d_verona = {
 		holder = 7942
 	}
 	1066.1.1 = {
-		holder = 1610
+		holder = 7782201
 		succession_laws = { male_only_law }
 	}
 	1073.1.1 = {
@@ -726,7 +726,7 @@ c_verona = {
 		holder = 167806
 	}
 	1027.1.1 = {
-		holder = 1610
+		holder = 7782201
 	}
 	1072.1.1 = {
 		holder = 10087
@@ -1056,7 +1056,7 @@ c_padua = {
 		holder = 7942
 	}
 	1066.1.1 = {
-		holder = 1610
+		holder = 7782201
 	}
 	1073.1.1 = {
 		holder = 10087
@@ -1214,7 +1214,7 @@ c_polesine = {
 		holder = 7942
 	}
 	1066.1.1 = {
-		holder = 1610
+		holder = 7782201
 	}
 	1073.1.1 = {
 		holder = 10087
@@ -3588,7 +3588,7 @@ c_modena = {
 		holder = 7758 # Federigo of Tuscany
 	}
 	1055.7.1 = {
-		holder = 7757 # Matilda of Tuscany
+		holder = 7782101
 	}
 	1115.7.24 = {
 		government = republic_government

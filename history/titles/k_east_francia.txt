@@ -3112,7 +3112,7 @@ c_breisgau = {
 		liege = "d_swabia"
 	}
 	1024.1.1 = {
-		holder = 1610
+		holder = 7782201
 	}
 	1078.11.5 = {
 		holder = 20245
@@ -3716,7 +3716,7 @@ c_wurttemberg = {
 		liege = "d_swabia"
 	}
 	1066.1.1 = {
-		holder = 10087
+		holder = 7782001
 	}
 	1080.10.15 = {
 		holder = 1390
@@ -3775,7 +3775,7 @@ c_baden = {
 		liege = "d_swabia"
 	}
 	1066.1.1 = {
-		holder = 10087
+		holder = 7782001
 	}
 	1074.4.25 = {
 		holder = 213153
@@ -5931,7 +5931,7 @@ c_wolkenstein = {
 		holder = 184007
 	}
 	1066.1.1 = {
-		holder = 30335
+		holder = 7781701
 	}
 	1080.1.1 = {
 		holder = 20270
@@ -6123,7 +6123,7 @@ c_vogtland = {
 		holder = 184007
 	}
 	1066.1.1 = {
-		holder = 30335
+		holder = 7781701
 	}
 	1080.1.1 = {
 		holder = 20270

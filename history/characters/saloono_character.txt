@@ -1,0 +1,93 @@
+﻿7781801 = {
+	name = "Nolberto"
+	dna = saloono_dna
+	sexuality = heterosexual
+	dynasty = 7781800
+	martial = 5
+	prowess = 13
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = cisalpine
+	trait = zealous
+	trait = education_intrigue_2
+	trait = compassionate
+	trait = humble
+	trait = theologian
+	trait = athletic
+	trait = poet
+	disallow_random_traits = yes
+	1025.1.1 = {
+		birth = yes
+	}
+	1048.1.2 = {
+	    add_spouse = 7781802
+	}
+}
+7781802 = {
+    name = Luisa
+	female = yes
+    religion = catholic
+    culture = franconian
+	sexuality = heterosexual
+	1029.1.1 = {
+		birth = yes
+	}
+	1048.1.2 = {
+	    add_spouse = 7781801
+	}
+}
+7781803 = {
+	name = "Chikita"
+	dynasty = 7781800
+	female = yes
+	father = 7781801
+	mother = 7781802
+	sexuality = heterosexual
+    religion = catholic
+    culture = cisalpine
+	1051.1.1 = {
+		birth = yes
+	}
+}
+7781804 = {
+	name = "Ñol"
+	dynasty = 7781800
+	father = 7781801
+	mother = 7781802
+	sexuality = heterosexual
+    religion = catholic
+    culture = cisalpine
+	1053.1.1 = {
+		birth = yes
+	}
+}
+7781805 = {
+	name = "Callao"
+	dynasty = 7781800
+	father = 7781801
+	mother = 7781802
+	sexuality = heterosexual
+    religion = catholic
+    culture = cisalpine
+	trait = twin
+	1057.1.1 = {
+		birth = yes
+	}
+}
+7781806 = {
+	name = "Esperanza"
+	dynasty = 7781800
+	female = yes
+	father = 7781801
+	mother = 7781802
+	sexuality = heterosexual
+    religion = catholic
+    culture = cisalpine
+	trait = twin
+	1057.1.1 = {
+		birth = yes
+	}
+}

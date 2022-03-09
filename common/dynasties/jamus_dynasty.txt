@@ -1,0 +1,4 @@
+﻿7781700 = {
+	name = "McGamus"
+	culture = "german"
+}

@@ -183,6 +183,12 @@ hairstyles_scripted_characters = {
                 exists = character:7772701
                 this = character:7772701
             }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7782001
+                this = character:7782001
+            }
         }
     }
 
@@ -598,6 +604,12 @@ hairstyles_scripted_characters = {
         weight = {
             base = 0
         }
+            modifier = {
+                add = 200
+				exists = this
+                exists = character:7781901
+                this = character:7781901
+            }
     }
 
     male_hair_sub_saharan_03 = { # Short dreads

@@ -1,0 +1,4 @@
+﻿7782200 = {
+	name = "Stark"
+	culture = "saxon"
+}

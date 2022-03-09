@@ -5456,7 +5456,7 @@ d_carinthia = {
 		holder = 7942
 	}
 	1061.1.1 = {
-		holder = 1610
+		holder = 7782201
 	}
 	1077.1.1 = {
 		holder = 70623
@@ -6054,7 +6054,7 @@ c_ljubljana = {
 		holder = 168206
 	}
 	1045.3.27 = {
-		holder = 1616
+		holder = 7781801
 	}
 	1070.3.6 = {
 		holder = 7300
@@ -6177,7 +6177,7 @@ c_pula = {
 		liege = e_hre
 	}
 	1044.1.1 = {
-		holder = 1616
+		holder = 7781801
 	}
 	1070.3.6 = {
 		holder = 7300

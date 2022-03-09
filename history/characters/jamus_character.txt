@@ -1,0 +1,18 @@
+﻿7781701 = {
+	name = "Jamus"
+	sexuality = heterosexual
+	dynasty = 7781700
+	martial = 9
+	prowess = 11
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = german
+	trait = education_martial_4
+	trait = strategist
+	1039.1.1 = {
+		birth = yes
+	}
+}

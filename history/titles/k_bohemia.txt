@@ -640,7 +640,7 @@ c_plzen = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	1066.1.1 = {
-		holder = 530
+		holder = 7781901
 	}
 	1092.1.14 = {
 		holder = 526
@@ -783,7 +783,7 @@ c_doudleby = {
 		holder = 777701
 	}
 	1066.1.1 = {
-		holder = 530
+		holder = 7781901
 	}
 	1092.1.14 = {
 		holder = 526

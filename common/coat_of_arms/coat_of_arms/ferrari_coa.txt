@@ -1,0 +1,93 @@
+7782100={
+	pattern="pattern_solid.dds"
+	color1=rgb { 194 29 6 }
+	color2=white
+	color3=black
+	colored_emblem={
+		color1=black
+		texture="ce_letter_f.dds"
+		instance={
+			position={ 0.570000 0.670000 }
+			scale={ 0.130000 0.130000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=grey
+		color3=grey
+		texture="ce_horse_rampant.dds"
+		instance={
+			position={ 0.500000 0.460000 }
+			scale={ 0.440000 0.500000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_escutcheon.dds"
+		instance={
+			scale={ 0.860000 0.860000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 255 255 255 }
+		texture="ce_square_kaaba.dds"
+		instance={
+			position={ 0.500000 0.160000 }
+			scale={ 0.980000 0.050000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 233 4 4 }
+		texture="ce_square_kaaba.dds"
+		instance={
+			position={ 0.500000 0.180000 }
+			scale={ 0.970000 0.060000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 8 129 20 }
+		texture="ce_square_kaaba.dds"
+		instance={
+			position={ 0.500000 0.140000 }
+			scale={ 0.980000 0.050000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_letter_s.dds"
+		instance={
+			position={ 0.440000 0.670000 }
+			scale={ 0.140000 0.140000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 255 243 0 }
+		texture="ce_escutcheon.dds"
+		instance={
+			scale={ 0.810000 0.810000 }
+			depth=6.010000
+		}
+
+	}
+
+}
