@@ -271,7 +271,7 @@
 }
 
 7772819 = {
-    name = Brain
+    name = Brian
     dna = brainlord_dna
 	dynasty = 7772800
 	religion = catholic
