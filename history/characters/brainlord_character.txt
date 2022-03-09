@@ -172,7 +172,6 @@
 
 7772812 = {
     name = Baroness
-    dna = brainlord_dna
     female = yes
 	dynasty = 7772800
 	religion = catholic
