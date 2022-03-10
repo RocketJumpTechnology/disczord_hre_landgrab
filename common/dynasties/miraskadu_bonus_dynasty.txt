@@ -1,0 +1,6 @@
+﻿7774300 = {
+    prefix = "dynnp_von"
+	name = "Karenkton"
+	culture = "franconian"
+	motto = motto_miraskadu_bonus
+}

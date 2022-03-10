@@ -1,0 +1,54 @@
+﻿7774301 = {
+	name = "Karen"
+	female = yes
+	dna = miraskadu_bonus_dna
+	dynasty = 7774300
+	sexuality = heterosexual
+	martial = 6
+	prowess = 10
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 12
+	learning = 7
+	religion = catholic
+	culture = franconian
+	trait = education_stewardship_3
+	trait = greedy
+	trait = stubborn
+	trait = avaricious
+	disallow_random_traits = yes
+	1031.1.1 = {
+		birth = yes
+	}
+}
+
+7774302 = {
+	name = "Ken"
+	dynasty = 7774300
+    religion = catholic
+    culture = franconian
+	1060.1.1 = {
+		birth = yes
+	}
+}
+
+7774303 = {
+	name = "Karen"
+	female = yes
+	dynasty = 7774300
+    religion = catholic
+    culture = franconian
+	1061.1.1 = {
+		birth = yes
+	}
+}
+
+7774304 = {
+	name = "Ken"
+	dynasty = 7774300
+    religion = catholic
+    culture = franconian
+	1062.1.1 = {
+		birth = yes
+	}
+}

@@ -1341,7 +1341,7 @@ c_kaiserslautern = {
 		holder = 20217
 	}
 	1066.1.1 = {
-		holder = 70825
+		holder = 7774301
 	}
 	1085.9.20 = {
 		holder = 7586
