@@ -1,0 +1,61 @@
+﻿7774401 = {
+	name = "Guy"
+	sexuality = heterosexual
+	dynasty = 7774400
+	martial = 5
+	prowess = 17
+	diplomacy = 5
+	intrigue = 9
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = bavarian
+	trait = diligent
+	trait = education_diplomacy_1
+	trait = craven
+	trait = content
+	trait = fickle
+	trait = vengeful
+	trait = reveler_1
+	trait = comfort_eater
+	disallow_random_traits = yes
+	1033.1.1 = {
+		birth = yes
+	}
+	1052.1.2 = {
+	    add_spouse = 7774402
+    }
+	1063.1.2 = {
+	    remove_spouse = 7774402
+    }
+}
+
+7774402 = {
+	name = "Sharon"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = scottish
+	1037.1.1 = {
+		birth = yes
+	}
+	1052.1.2 = {
+	    add_spouse = 7774401
+    }
+	1063.1.2 = {
+	    remove_spouse = 7774401
+    }
+}
+
+7774403 = {
+	name = "Lil Guy"
+	sexuality = heterosexual
+	dynasty = 7774400
+    religion = catholic
+    culture = bavarian
+    father = 7774401
+    mother = 7774402
+	1061.1.1 = {
+		birth = yes
+	}
+}
