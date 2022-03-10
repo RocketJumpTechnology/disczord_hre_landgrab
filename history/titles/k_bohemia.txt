@@ -1414,7 +1414,7 @@ c_olomouc = {
 	#	holder = 0
 	#}
 	1061.1.1 = {
-		holder = 212892
+		holder = 7774701
 	}
 	1066.1.1 = {
 		liege = "d_bohemia"
@@ -1675,7 +1675,7 @@ c_prerov = {
 	#	holder = 0
 	#}
 	1061.1.1 = {
-		holder = 212892
+		holder = 7774701
 	}
 	1066.1.1 = {
 		liege = "d_bohemia"

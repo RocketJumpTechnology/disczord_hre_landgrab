@@ -1,0 +1,5 @@
+﻿7774700 = {
+	name = "Warne"
+	culture = "czech"
+	motto = motto_prunetracy
+}
