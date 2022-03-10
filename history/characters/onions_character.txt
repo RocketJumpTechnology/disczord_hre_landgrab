@@ -1,0 +1,90 @@
+﻿7782401 = {
+	name = "ONIONS"
+	dna = onions_dna
+	sexuality = heterosexual
+	dynasty = 7782400
+	martial = 5
+	prowess = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = cisalpine
+	trait = impatient
+	trait = education_martial_1
+	trait = brave
+	trait = vengeful
+	trait = irritable
+	trait = beauty_bad_1
+	trait = intellect_bad_3
+	trait = strong
+	trait = physique_good_3
+	trait = giant
+	disallow_random_traits = yes
+	1035.1.1 = {
+		birth = yes
+	}
+	1055.1.2 = {
+	    add_spouse = 7782402
+    }
+}
+7782402 = {
+	name = "LEEKLADY"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = old_saxon
+	1038.1.1 = {
+		birth = yes
+	}
+	1055.1.2 = {
+	    add_spouse = 7782401
+    }
+}
+7782403 = {
+    name = ONIONS
+	dynasty = 7782400
+	religion = catholic
+	culture = cisalpine
+	father = 7782401
+	mother = 7782402
+	1056.1.1 = {
+	    birth = yes
+	}
+}
+7782404 = {
+    name = SHALLOT
+	dynasty = 7782400
+	female = yes
+	religion = catholic
+	culture = cisalpine
+	father = 7782401
+	mother = 7782402
+	1058.1.1 = {
+	    birth = yes
+	}
+}
+7782405 = {
+    name = GARLIK
+	dynasty = 7782400
+	female = yes
+	religion = catholic
+	culture = cisalpine
+	father = 7782401
+	mother = 7782402
+	1060.1.1 = {
+	    birth = yes
+	}
+}
+7782406 = {
+    name = SPRINGUNYUN
+	dynasty = 7782400
+	religion = catholic
+	culture = cisalpine
+	father = 7782401
+	mother = 7782402
+	1063.1.1 = {
+	    birth = yes
+	}
+}

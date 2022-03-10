@@ -364,7 +364,7 @@ c_friuli = {
 		holder = 70626
 	}
 	1038.8.11 = {
-		holder = 20352
+		holder = 7782601
 	}
 	1081.7.31 = {
 		holder = 70627
@@ -837,7 +837,7 @@ c_treviso = {
 		holder = 70626 # Rambaldo I di Treviso
 	}
 	1038.8.11 = {
-		holder = 20352 # Rambaldo II
+		holder = 7782601
 	}
 	1081.7.31 = {
 		holder = 70627 # Matilda

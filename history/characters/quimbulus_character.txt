@@ -1,0 +1,65 @@
+﻿7782601 = {
+	name = "Sean"
+	sexuality = heterosexual
+	dynasty = 7782600
+	martial = 5
+	prowess = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = cisalpine
+	trait = diligent
+	trait = education_learning_3
+	trait = honest
+	trait = compassionate
+	trait = diplomat
+	trait = administrator
+	disallow_random_traits = yes
+	1040.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7782602
+    }
+}
+7782602 = {
+	name = "Elle"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = bavarian
+	1042.1.1 = {
+		birth = yes
+	}
+	1063.1.2 = {
+	    add_spouse = 7782601
+    }
+}
+7782603 = {
+    name = Sasha
+	dynasty = 7782600
+	female = yes
+	religion = catholic
+	culture = cisalpine
+	father = 7782601
+	mother = 7782602
+	trait = twin
+	1064.1.1 = {
+	    birth = yes
+	}
+}
+7782604 = {
+    name = Chelsea
+	dynasty = 7782600
+	female = yes
+	religion = catholic
+	culture = cisalpine
+	father = 7782601
+	mother = 7782602
+	trait = twin
+	1064.1.1 = {
+	    birth = yes
+	}
+}

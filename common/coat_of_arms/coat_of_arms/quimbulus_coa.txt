@@ -1,0 +1,16 @@
+7782600={
+	pattern="pattern_shield_02.dds"
+	color1=yellow
+	color2=black
+	color3=green
+	colored_emblem={
+		color1=grey
+		texture="ce_star_07.dds"
+		instance={
+			position={ 0.500000 0.480000 }
+			scale={ 0.600000 0.600000 }
+		}
+
+	}
+
+}

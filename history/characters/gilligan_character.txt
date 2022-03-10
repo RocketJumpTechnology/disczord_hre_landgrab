@@ -1,0 +1,73 @@
+﻿7782701 = {
+	name = "Daniel"
+	sexuality = heterosexual
+	dynasty = 7782700
+	martial = 5
+	prowess = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	learning = 8
+	religion = catholic
+	culture = cisalpine
+	trait = gregarious
+	trait = education_diplomacy_3
+	trait = ambitious
+	trait = trusting
+	trait = reveler_2
+	trait = poet
+	disallow_random_traits = yes
+	1041.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 7782702
+    }
+}
+7782702 = {
+	name = "Laura"
+	female = yes
+	sexuality = heterosexual
+    religion = catholic
+    culture = italian
+	1042.1.1 = {
+		birth = yes
+	}
+	1060.1.2 = {
+	    add_spouse = 7782701
+    }
+}
+7782703 = {
+	name = "Mic"
+	dynasty = 7782700
+	female = yes
+	religion = catholic
+	culture = cisalpine
+	father = 7782701
+	mother = 7782702
+	1062.1.1 = {
+	    birth = yes
+	}
+}
+7782704 = {
+	name = "Daniel"
+	dynasty = 7782700
+	religion = catholic
+	culture = cisalpine
+	father = 7782701
+	mother = 7782702
+	1064.1.1 = {
+	    birth = yes
+	}
+}
+7782705 = {
+	name = "Lando"
+	dynasty = 7782700
+	religion = catholic
+	culture = cisalpine
+	father = 7782701
+	mother = 7782702
+	1066.1.1 = {
+	    birth = yes
+	}
+}

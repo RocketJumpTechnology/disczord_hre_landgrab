@@ -2023,7 +2023,7 @@ c_nurnberg = {
 		holder = 112600
 	}
 	1066.1.1 = {
-		holder = 20258
+		holder = 7782501
 	}
 	1070.1.1 = {
 		holder = 10091

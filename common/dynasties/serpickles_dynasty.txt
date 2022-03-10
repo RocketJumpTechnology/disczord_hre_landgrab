@@ -1,0 +1,5 @@
+﻿7782500 = {
+	name = "Pickles"
+	culture = "bavarian"
+	motto = motto_serpickles
+}

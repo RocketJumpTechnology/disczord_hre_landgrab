@@ -1,0 +1,5 @@
+﻿7782300 = {
+	name = "NotASpy"
+	culture = "norwegian"
+	motto = motto_notaspy
+}

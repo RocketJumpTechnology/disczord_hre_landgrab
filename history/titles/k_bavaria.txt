@@ -1686,7 +1686,7 @@ c_passau = {
 		holder = 31513
 	}
 	1060.5.18 = {
-		holder = 31515
+		holder = 7782401
 	}
 	1078.8.7 = {
 		holder = 31514
@@ -1860,7 +1860,7 @@ d_nordgau = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 20258
+		holder = 7782501
 	}
 	1070.1.1 = {
 		holder = 10091
@@ -2037,7 +2037,7 @@ c_eichstadt = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 20258
+		holder = 7782501
 	}
 	1070.1.1 = {
 		holder = 10091
@@ -2214,7 +2214,7 @@ c_leuchtenburg = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 20258
+		holder = 7782501
 	}
 	1070.1.1 = {
 		holder = 10091
@@ -2391,7 +2391,7 @@ c_parsberg = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 20258
+		holder = 7782501
 	}
 	1070.1.1 = {
 		holder = 10091
@@ -2568,7 +2568,7 @@ c_hohenburg = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 20258
+		holder = 7782501
 	}
 	1070.1.1 = {
 		holder = 10091
@@ -5535,7 +5535,7 @@ c_karnten = {
 		holder = 1618
 	}
 	1039.1.1 = {
-		holder = 70622
+		holder = 7782301
 	}
 	1076.6.16 = {
 		holder = 70623
@@ -5610,7 +5610,7 @@ c_kammersberg = {
 		holder = 1618
 	}
 	1039.1.1 = {
-		holder = 70622
+		holder = 7782301
 	}
 	1076.6.16 = {
 		holder = 70623
@@ -5768,7 +5768,7 @@ c_villach = {
 		holder = 70622
 	}
 	1066.1.1 = {
-		holder = 70827
+		holder = 7782701
 	}
 	1076.6.16 = {
 		holder = 70623
@@ -5960,7 +5960,7 @@ c_kranj = {
 		holder = 1616
 	}
 	1064.1.1 = {
-		holder = 7704
+		holder = 7782701
 	}
 	1070.3.6 = {
 		holder = 7300
