@@ -1347,7 +1347,7 @@ d_upper_lorraine = {
 		holder = 6640 #Adalbert Chatenois (667)
 	}
 	1048.11.11 = {
-		holder = 6642 #Gerhard Chatenois (667)
+		holder = 7773801
 	}
 	1070.4.14 = {
 		holder = 6644 #Dietrich Chatenois (667)
@@ -1519,7 +1519,7 @@ c_nancy = {
 		holder = 6632
 	}
 	1048.11.11 = {
-		holder = 6642 #Gerhard Chatenois (667)
+		holder = 7773801
 	}
 	1070.4.14 = {
 		holder = 6644 #Dietrich Chatenois (667)
@@ -1997,7 +1997,7 @@ c_neufchateau = {
 		holder = 6632
 	}
 	1048.11.11 = {
-		holder = 6642 #Gerhard Chatenois (667)
+		holder = 7773801
 	}
 	1070.4.14 = {
 		holder = 6644 #Dietrich Chatenois (667)

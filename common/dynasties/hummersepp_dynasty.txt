@@ -1,0 +1,6 @@
+﻿7773800 = {
+    prefix = "dynnp_von"
+	name = "Amenstein"
+	culture = "franconian"
+	motto = motto_hummersepp
+}

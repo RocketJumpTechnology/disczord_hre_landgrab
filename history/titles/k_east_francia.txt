@@ -1052,7 +1052,7 @@ c_vaihingen = {
 		holder = 20216
 	}
 	1060.1.1 = {
-		holder = 6642 # Gerhard of Upper Lorraine
+		holder = 7773801
 	}
 	1085.9.20 = {
 		holder = 7586
