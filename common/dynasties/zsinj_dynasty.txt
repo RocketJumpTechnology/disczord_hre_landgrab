@@ -1,5 +1,5 @@
 ﻿7771200 = {
 	name = "Zsinj"
-	culture = "sardinian"
+	culture = "cisalpine"
 	motto = motto_zsinj
 }

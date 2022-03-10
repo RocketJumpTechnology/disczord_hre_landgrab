@@ -95,7 +95,7 @@
 	father = 7773101
 	mother = 7773102
 	trait = possessed_genetic
-	1059.9.1 = {
+	1036.9.1 = {
 	    birth = yes
 	}
 }
@@ -109,7 +109,7 @@
 	father = 7773101
 	mother = 7773102
 	trait = possessed_genetic
-	1060.9.1 = {
+	1038.9.1 = {
 	    birth = yes
 	}
 }
@@ -124,7 +124,7 @@
 	mother = 7773102
 	trait = possessed_genetic
 	trait = twin
-	1061.9.1 = {
+	1041.9.1 = {
 	    birth = yes
 	}
 }
@@ -140,7 +140,7 @@
 	mother = 7773102
 	trait = possessed_genetic
 	trait = twin
-	1061.9.1 = {
+	1048.9.1 = {
 	    birth = yes
 	}
 }
@@ -153,7 +153,7 @@
 	culture = franconian
 	father = 7773101
 	mother = 7773102
-	1062.10.1 = {
+	1046.10.1 = {
 	    birth = yes
 	}
 }
@@ -165,7 +165,7 @@
 	culture = franconian
 	father = 7773101
 	mother = 7773102
-	1063.10.1 = {
+	1048.10.1 = {
 	    birth = yes
 	}
 }
@@ -178,7 +178,7 @@
 	father = 7773101
 	mother = 7773102
 	trait = possessed_genetic
-	1064.10.1 = {
+	1051.10.1 = {
 	    birth = yes
 	}
 }
