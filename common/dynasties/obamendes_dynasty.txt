@@ -1,0 +1,5 @@
+﻿7774200 = {
+	name = "Lasagnoli"
+	culture = "italian"
+	motto = motto_obamendes
+}

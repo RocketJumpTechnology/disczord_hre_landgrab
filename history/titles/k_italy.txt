@@ -2926,7 +2926,7 @@ c_parma = {
 		holder = 7756 # Bonifacio IV of Toscana
 	}
 	1052.5.6 = {
-		holder = 71285 # Arduino di Parma
+		holder = 7774201
 	}
 	1073.1.1 = {
 		holder = 2009 # Oberto I
