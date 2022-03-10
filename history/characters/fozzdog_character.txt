@@ -1,0 +1,22 @@
+﻿7774601 = {
+	name = "Fozzeth"
+	dna = fozzdog_dna
+	dynasty = 7774600
+	sexuality = heterosexual
+	martial = 10
+	prowess = 8
+	diplomacy = 7
+	intrigue = 10
+	stewardship = 13
+	learning = 5
+	religion = catholic
+	culture = frisian
+	trait = education_intrigue_2
+	trait = possessed_genetic
+	trait = murderer
+	trait = intellect_good_2
+	disallow_random_traits = yes
+	1041.1.1 = {
+		birth = yes
+	}
+}

@@ -1,0 +1,5 @@
+﻿7774600 = {
+	name = "Dog"
+	culture = "cisalpine"
+	motto = motto_fozzdog
+}

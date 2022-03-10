@@ -515,6 +515,12 @@ hairstyles_scripted_characters = {
                 exists = character:777401
                 this = character:777401
             }
+            modifier = {
+                add = 200
+                exists = this
+                exists = character:7774601
+                this = character:7774601
+            }
         }
     }
 
