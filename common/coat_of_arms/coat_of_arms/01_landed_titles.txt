@@ -11904,7 +11904,6 @@ d_toscana = {
 }
 
 d_lombardia = {
-	custom=yes
     pattern="pattern_bend_01.dds"
     color1=black
     color2=purple
@@ -17615,15 +17614,18 @@ c_zurich = {
 }
 
 c_grisons = {
-	pattern = "pattern_solid.dds"
-	color1 = "black"
-	color2 = "white"
-	colored_emblem = {
-		texture = "ce_pattern_vertical_split_01.dds"
-		color1 = "black"
-		color2 = "white"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
-	}
+    pattern="pattern_tricolor_horizontal_01.dds"
+    color1=green_light
+    color2=yellow_light
+    color3=red
+    colored_emblem={
+            color1=black
+            texture="ce_lion_rampant_crown_forked.dds"
+            instance={
+                    scale={ 0.700000 0.700000 }
+            }
+
+    }
 }
 
 c_marburg = {
@@ -17854,18 +17856,15 @@ c_monferrato = {
 }
 
 c_lombardia = {
-    pattern="pattern_tricolor_horizontal_01.dds"
-    color1=green_light
-    color2=yellow_light
-    color3=red
-    colored_emblem={
-            color1=black
-            texture="ce_lion_rampant_crown_forked.dds"
-            instance={
-                    scale={ 0.700000 0.700000 }
-            }
-
-    }
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	color2 = "blue"
+	colored_emblem = {
+		texture = "ce_snake.dds"
+		color1 = "blue"
+		color2 = "red"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }	}
+	}
 }
 
 c_luni = {
