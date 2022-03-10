@@ -10,7 +10,7 @@
 	stewardship = 9
 	learning = 0
 	religion = catholic
-	culture = sardinian
+	culture = cisalpine
 	trait = education_stewardship_3
 	trait = temperate
 	trait = sayyid
@@ -26,7 +26,7 @@
     female = yes
 	dynasty = 7771200
 	religion = catholic
-	culture = sardinian
+	culture = cisalpine
 	father = 7771201
 	trait = twin
 	trait = sayyid
@@ -41,7 +41,7 @@
     female = yes
 	dynasty = 7771200
 	religion = catholic
-	culture = sardinian
+	culture = cisalpine
 	father = 7771201
 	trait = twin
 	trait = sayyid
