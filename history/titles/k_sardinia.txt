@@ -64,7 +64,7 @@ c_ajaccio = {
 		holder = 235008 # Ghiberto
 	}
 	1062.1.1 = {
-		holder = 235009 # Giovanni
+		holder = 7774501
 	}
 	1077.1.1 = {
 		holder = 2009
@@ -261,6 +261,9 @@ c_vecchio = {
 	1062.1.1 = {
 		holder = 235009 # Giovanni Obertenghi
 		liege = d_genoa
+	}
+	1066.1.1 = {
+	    holder = 7774501
 	}
 	1077.1.1 = {
 		liege = k_papal_state

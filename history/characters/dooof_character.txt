@@ -42,6 +42,8 @@
 	female = yes
 	religion = catholic
 	culture = cisalpine
+	father = 7773701
+	mother = 7773702
 	1063.1.1 = {
 	    birth = yes
 	}

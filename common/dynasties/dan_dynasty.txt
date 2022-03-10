@@ -1,0 +1,5 @@
+﻿7774500 = {
+	name = "Dikshit"
+	culture = "cisalpine"
+	motto = motto_dan
+}
