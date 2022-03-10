@@ -3089,7 +3089,7 @@ c_augsburg = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 33511
+		holder = 7774401
 	}
 	1095.1.1 = {
 		holder = 33513
@@ -3325,7 +3325,7 @@ c_kempten = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 33511
+		holder = 7774401
 	}
 	1095.1.1 = {
 		holder = 33513
@@ -3544,7 +3544,7 @@ c_burgau = {
 		holder = 7772601
 	}
 	1066.1.1 = {
-		holder = 33511
+		holder = 7774401
 	}
 	1095.1.1 = {
 		holder = 33513

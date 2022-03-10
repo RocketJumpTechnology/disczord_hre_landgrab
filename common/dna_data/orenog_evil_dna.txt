@@ -1,4 +1,4 @@
-orenog_dna={
+orenog_evil_dna={
 	portrait_info = {
         type=male
         genes={

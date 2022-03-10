@@ -1,0 +1,5 @@
+﻿7774400 = {
+	name = "Feely"
+	culture = "bavarian"
+	motto = motto_chubstep
+}

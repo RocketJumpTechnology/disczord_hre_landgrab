@@ -10072,17 +10072,34 @@ c_augsburg = {
 }
 
 d_nordgau = {
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "yellow"
-	colored_emblem = {
-		texture = "ce_crown.dds"
-		color1 = "yellow"
-		color2 = "yellow"
-		instance = { position = { 0.315 0.32 } scale = { 0.4 0.4 }  }
-		instance = { position = { 0.685 0.32 } scale = { 0.4 0.4 }  }
-		instance = { position = { 0.5 0.62 } scale = { 0.4 0.4 }  }
+	pattern="pattern_solid.dds"
+	color1=yellow
+	color2=white
+	color3=blue
+	colored_emblem={
+		color1=brown
+		color2=grey
+		texture="ce_religion_west_african_bori.dds"
+		instance={
+			position={ 0.300000 0.400000 }
+			scale={ 0.200000 0.200000 }
+			rotation=41
+		}
+
 	}
+
+	colored_emblem={
+		color1=rgb { 194 192 192 }
+		color2=black
+		texture="ce_unicorn.dds"
+		instance={
+			position={ 0.530000 0.470000 }
+			scale={ 0.700000 0.700000 }
+			depth=1.010000
+		}
+
+	}
+
 }
 
 d_transjurania = {
@@ -11904,7 +11921,6 @@ d_toscana = {
 }
 
 d_lombardia = {
-	custom=yes
     pattern="pattern_bend_01.dds"
     color1=black
     color2=purple
@@ -17615,15 +17631,18 @@ c_zurich = {
 }
 
 c_grisons = {
-	pattern = "pattern_solid.dds"
-	color1 = "black"
-	color2 = "white"
-	colored_emblem = {
-		texture = "ce_pattern_vertical_split_01.dds"
-		color1 = "black"
-		color2 = "white"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
-	}
+    pattern="pattern_tricolor_horizontal_01.dds"
+    color1=green_light
+    color2=yellow_light
+    color3=red
+    colored_emblem={
+            color1=black
+            texture="ce_lion_rampant_crown_forked.dds"
+            instance={
+                    scale={ 0.700000 0.700000 }
+            }
+
+    }
 }
 
 c_marburg = {
@@ -17854,18 +17873,15 @@ c_monferrato = {
 }
 
 c_lombardia = {
-    pattern="pattern_tricolor_horizontal_01.dds"
-    color1=green_light
-    color2=yellow_light
-    color3=red
-    colored_emblem={
-            color1=black
-            texture="ce_lion_rampant_crown_forked.dds"
-            instance={
-                    scale={ 0.700000 0.700000 }
-            }
-
-    }
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+	color2 = "blue"
+	colored_emblem = {
+		texture = "ce_snake.dds"
+		color1 = "blue"
+		color2 = "red"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }	}
+	}
 }
 
 c_luni = {

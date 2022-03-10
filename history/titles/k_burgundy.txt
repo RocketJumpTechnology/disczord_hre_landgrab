@@ -1342,7 +1342,12 @@ d_upper_burgundy = {
 	1032.9.5 = {
 		holder = 0
 	}
-	
+
+	1066.1.1 = {
+		liege = e_hre
+	    holder = 7773901
+	}
+
 	1220.1.1 = {
 		liege = e_hre
 		holder = 32768
@@ -1403,6 +1408,9 @@ c_besancon = {
 	}
 	1057.1.1 = {
 		holder = 280 #Guillaume I de Bourgogne
+	}
+	1066.1.1 = {
+	    holder = 7773901
 	}
 	1087.1.1 = {
 		holder = 290 #Renaud II de Bourgogne
@@ -1590,6 +1598,9 @@ c_dole = {
 	1057.1.1 = {
 		holder = 280 #Guillaume I de Bourgogne
 	}
+	1066.1.1 = {
+	    holder = 7773901
+	}
 	1087.1.1 = {
 		holder = 290 #Renaud II de Bourgogne
 	}
@@ -1689,6 +1700,9 @@ c_bresse = {
 	}
 	1057.1.1 = {
 		holder = 280 #Guillaume I de Bourgogne
+	}
+	1066.1.1 = {
+	    holder = 7773901
 	}
 	1087.1.1 = {
 		holder = 290 #Renaud II de Bourgogne

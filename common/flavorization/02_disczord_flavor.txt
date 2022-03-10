@@ -34,7 +34,7 @@ title_lord = {
 	gender = male
 	special = holder
 	priority = 60
-	titles = { d_luxembourg }
+	titles = { d_luxembourg d_upper_burgundy }
 	top_liege = no
 }
 
@@ -43,7 +43,7 @@ title_lady = {
 	gender = female
 	special = holder
 	priority = 60
-	titles = { d_luxembourg }
+	titles = { d_luxembourg d_upper_burgundy }
 	top_liege = no
 }
 

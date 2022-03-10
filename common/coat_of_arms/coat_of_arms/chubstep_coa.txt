@@ -1,0 +1,16 @@
+7771200={
+        pattern="pattern_solid.dds"
+        color1=yellow
+        color2=white
+        color3=blue
+        colored_emblem={
+                color1=rgb { 231 179 148 }
+                texture="ce_moon_india.dds"
+                instance={
+                        position={ 0.500000 0.440000 }
+                        scale={ 0.940000 0.940000 }
+                }
+
+        }
+
+}
