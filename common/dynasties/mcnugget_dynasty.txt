@@ -1,0 +1,5 @@
+﻿7783000 = {
+	name = "McNaughton"
+	culture = "pictish"
+	motto - motto_mcnaughton
+}

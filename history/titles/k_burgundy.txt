@@ -1095,8 +1095,8 @@ c_viennois = {
 	1009.1.1 = {
 		holder = 40462 # Guigues III the old d'Albon
 	}
-	1074.4.22 = {
-		holder = 212804 # Guigues IV Pinguis d'Albon
+	1066.1.1 = {
+		holder = 7783101
 	}
 	1106.1.19 = {
 		holder = 212803 # Guigues V d'Albon
@@ -1168,8 +1168,8 @@ c_valentinois = {
 	1009.1.1 = {
 		holder = 40462 # Guigues III the old d'Albon
 	}
-	1074.4.22 = {
-		holder = 212804 # Guigues IV Pinguis d'Albon
+	1066.1.1 = {
+		holder = 7783101
 	}
 	1106.1.19 = {
 		holder = 212803 # Guigues V d'Albon

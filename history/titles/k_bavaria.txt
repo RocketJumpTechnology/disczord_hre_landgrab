@@ -2848,7 +2848,7 @@ c_hallstatt = {
 	}
 	1066.1.1 = {
 		liege = d_steyermark
-		holder = 260007
+		holder = 7783001
 	}
 	1090.1.1 = {
 		holder = 33410
@@ -2905,7 +2905,7 @@ c_linz = {
 	}
 	1066.1.1 = {
 		liege = d_steyermark
-		holder = 260007
+		holder = 7783001
 	}
 	1090.1.1 = {
 		holder = 33410

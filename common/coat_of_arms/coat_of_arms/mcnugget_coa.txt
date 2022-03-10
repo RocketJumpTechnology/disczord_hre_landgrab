@@ -1,0 +1,42 @@
+7783000={
+	pattern="pattern_solid.dds"
+	color1=blue
+	color2=white
+	color3=black
+	colored_emblem={
+		color1=yellow
+		color2=grey
+		texture="ce_sword_simple.dds"
+		instance={
+			position={ 0.500000 0.460000 }
+			scale={ 0.920000 -0.920000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 210 33 9 }
+		texture="ce_tamgha_makas.dds"
+		instance={
+			position={ 0.500000 0.600000 }
+			scale={ 0.820000 0.820000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_bend_thin.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			depth=2.010000
+		}
+
+		instance={
+			depth=3.010000
+		}
+
+	}
+
+}

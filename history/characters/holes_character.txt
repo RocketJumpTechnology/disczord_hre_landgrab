@@ -1,0 +1,37 @@
+﻿7783101 = {
+	name = "Wurt"
+	dna = holes_dna
+	sexuality = heterosexual
+	dynasty = 7783100
+	martial = 5
+	prowess = 13
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = catholic
+	culture = cisalpine
+	trait = lustful
+	trait = education_stewardship_2
+	trait = deceitful
+	trait = arbitrary
+	trait = seducer
+	trait = rakish
+	trait = shrewd
+	disallow_random_traits = yes
+	1042.1.1 = {
+		birth = yes
+	}
+}
+
+7783102 = {
+    name = Wurt
+	dynasty = 7783100
+	religion = catholic
+	culture = cisalpine
+	father = 7783101
+	trait = legitimized_bastard
+	1061.4.1 = {
+	    birth = yes
+	}
+}
