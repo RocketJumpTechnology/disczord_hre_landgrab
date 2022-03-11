@@ -772,11 +772,9 @@ c_antwerpen = {
 	1046.1.1 = {
 		holder = 7975 #Friedrich Wigeriche
 	}
-	#1065.1.1 = {
-	#	liege = k_france
-	#}
 	1065.8.28 = {
-		holder = 777301 # Gengar
+		liege = e_hre
+		holder = 41722
 	}
 	1069.1.2 = {
 		holder = 20248  #Gottfried Wigeriche
@@ -2167,6 +2165,9 @@ c_cologne = {
 	1063.1.1 = {
 		liege = e_hre
 	}
+	1066.1.1 = {
+	    holder = 777301
+	}
 	1075.12.4 = {
 		holder = 33157
 	}
@@ -2271,9 +2272,9 @@ c_dortmund = {
 	1056.1.1 = {
 		holder = 20228
 	}
-	#1065.1.1 = {
-	#	liege = e_hre
-	#}
+	1065.1.1 = {
+		liege = e_hre
+	}
 	1075.12.4 = {
 		holder = 33157
 	}
