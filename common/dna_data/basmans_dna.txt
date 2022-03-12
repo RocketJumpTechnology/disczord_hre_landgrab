@@ -1,4 +1,4 @@
-﻿majorbyte_dna={
+﻿basmans_dna={
 	portrait_info = {
         type=male
         genes={

@@ -1,4 +1,4 @@
-majorbyte_dna={
+oakman_dna={
 	portrait_info = {
         type=male
         genes={
